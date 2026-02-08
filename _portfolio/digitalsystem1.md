@@ -35,11 +35,11 @@ speed of the gate, not the final voltage levels it reaches.
 
 <figure id="fig:66_parallel" data-latex-placement="H">
 <figure id="fig:66_tpLH">
-<img src="/images/ELEN3802/Lab1Q2_66_tpLH.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q2_66_tpLH.png" />
 <figcaption>Q2 66 tpLH</figcaption>
 </figure>
 <figure id="fig:66_tpHL">
-<img src="/images/ELEN3802/Lab1Q2_66_tpHL.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q2_66_tpHL.png" />
 <figcaption>Q2 66 tpHL</figcaption>
 </figure>
 <figcaption>Q2 66 propagation delay comparison</figcaption>
@@ -55,11 +55,11 @@ These values are given by *Δ*X shown on the oscilloscope.
 
 <figure id="fig:0.1_parallel" data-latex-placement="H">
 <figure id="fig:0.1_tpLH">
-<img src="/images/ELEN3802/Lab1Q2_0.1_tpLH.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q2_0.1_tpLH.png" />
 <figcaption>Q2 0.1 tpLH</figcaption>
 </figure>
 <figure id="fig:0.1_tpHL">
-<img src="/images/ELEN3802/Lab1Q2_0.1_tpHL.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q2_0.1_tpHL.png" />
 <figcaption>Q2 0.1 tpHL</figcaption>
 </figure>
 <figcaption>Q2 0.1 propagation delay comparison</figcaption>
@@ -80,7 +80,7 @@ These values are given by *Δ*X shown on the oscilloscope.
 - *NM*<sub>*L*</sub> = *V*<sub>*IL*</sub> − *V*<sub>*OL*</sub> = 2.15 − 0.400 = 1.750 V
 
 <figure id="fig:Q3_74HC00_XY" data-latex-placement="H">
-<img src="/images/ELEN3802/Lab1Q3_74HC00_XY.png" style="width:75.0%" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q3_74HC00_XY.png" style="width:75.0%" />
 <figcaption>Q3 74HC00 XY plot</figcaption>
 </figure>
 
@@ -94,11 +94,11 @@ These values are given by *Δ*X shown on the oscilloscope.
 
 <figure id="fig:Q4_66_parallel" data-latex-placement="H">
 <figure id="fig:Q4_66_tpLH">
-<img src="/images/ELEN3802/Lab1Q4_66_tpLH.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q4_66_tpLH.png" />
 <figcaption>Q4 66 tpLH</figcaption>
 </figure>
 <figure id="fig:Q4_66_tpHL">
-<img src="/images/ELEN3802/Lab1Q4_66_tpHL.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q4_66_tpHL.png" />
 <figcaption>Q4 66 tpHL</figcaption>
 </figure>
 <figcaption>Q4 66 propagation delay comparison</figcaption>
@@ -112,11 +112,11 @@ These values are given by *Δ*X shown on the oscilloscope.
 
 <figure id="fig:Q4_01_parallel" data-latex-placement="H">
 <figure id="fig:Q4_01_tpLH">
-<img src="/images/ELEN3802/Lab1Q4_0.1_tpLH.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q4_0.1_tpLH.png" />
 <figcaption>Q4 0.1 tpLH</figcaption>
 </figure>
 <figure id="fig:Q4_01_tpHL">
-<img src="/images/ELEN3802/Lab1Q4_0.1_tpHL.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q4_0.1_tpHL.png" />
 <figcaption>Q4 0.1 tpHL</figcaption>
 </figure>
 <figcaption>Q4 0.1 propagation delay comparison</figcaption>
@@ -125,7 +125,7 @@ These values are given by *Δ*X shown on the oscilloscope.
 # Q5
 
 <figure id="fig1:q5" data-latex-placement="H">
-<img src="/images/ELEN3802/Lab1Q5.png"
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q5.png"
 style="width:75.0%" />
 <figcaption>Q5 Green=input signal. Yellow=output signal</figcaption>
 </figure>
@@ -136,31 +136,31 @@ expected).
 As we increased the frequency, the following output is obtained:
 
 <figure id="fig2:q5" data-latex-placement="H">
-<img src="/images/ELEN3802/Lab1Q5_2.png"
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q5_2.png"
 style="width:75.0%" />
 <figcaption>Q5 Green=input signal. Yellow=output signal</figcaption>
 </figure>
 
 <figure id="fig3:q5" data-latex-placement="H">
-<img src="/images/ELEN3802/Lab1Q5_3.png"
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q5_3.png"
 style="width:75.0%" />
 <figcaption>Q5 Green=input signal. Yellow=output signal</figcaption>
 </figure>
 
 <figure id="fig4:q5">
-<img src="/images/ELEN3802/Lab1Q5_4.png"
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q5_4.png"
 style="width:75.0%" />
 <figcaption>Keep increasing the frequency</figcaption>
 </figure>
 
 <figure id="fig5:q5">
-<img src="/images/ELEN3802/Lab1Q5_5.png"
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q5_5.png"
 style="width:75.0%" />
 <figcaption>Keep increasing the frequency</figcaption>
 </figure>
 
 <figure id="fig6:q5">
-<img src="/images/ELEN3802/Lab1Q5_6.png"
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q5_6.png"
 style="width:75.0%" />
 <figcaption>High frequency</figcaption>
 </figure>
@@ -192,11 +192,11 @@ and blue, respectively.
 
 <figure id="fig:q6_parallel" data-latex-placement="H">
 <figure id="fig:q6_pressed">
-<img src="/images/ELEN3802/Lab1Q6_1.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q6_1.png" />
 <figcaption>R and S are high, Q is low. (button is pressed)</figcaption>
 </figure>
 <figure id="fig:q6_not_pressed">
-<img src="/images/ELEN3802/Lab1Q6_2.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q6_2.png" />
 <figcaption>R is low, S is high, Q is high. (button not pressed)
 </figcaption>
 </figure>
@@ -217,7 +217,7 @@ high, which means Q is low.
 # Design Question
 
 <figure id="fig:placeholder" data-latex-placement="H">
-<img src="/images/ELEN3802/Lab1Design.png" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Design.png" />
 <figcaption>Design Schematic</figcaption>
 </figure>
 
@@ -237,7 +237,7 @@ Law. However, we cannot achieve this goal during the lab, so we used
 74F00 for our NAND gate directly.
 
 <figure id="fig:placeholder" data-latex-placement="H">
-<img src="/images/ELEN3802/designPic.JPG" style="width:50.0%" />
+<img src="{{ site.baseurl }}/images/ELEN3802/designPic.JPG" style="width:50.0%" />
 <figcaption>Circuit</figcaption>
 </figure>
 
