@@ -10,17 +10,17 @@ collection: portfolio
 <figcaption>Q1 XY mode</figcaption>
 </figure>
 
-- *V*<sub>*I**H*</sub> = 1.469 V
+- *V*<sub>*IH*</sub> = 1.469 V
 
-- *V*<sub>*I**L*</sub> = 1.183 V
+- *V*<sub>*IL*</sub> = 1.183 V
 
-- *V*<sub>*O**H*</sub> = 4.07 V
+- *V*<sub>*OH*</sub> = 4.07 V
 
-- *V*<sub>*O**L*</sub> = 0.233 V
+- *V*<sub>*OL*</sub> = 0.233 V
 
-- *N**M*<sub>*H*</sub> = *V*<sub>*O**H*</sub> − *V*<sub>*I**H*</sub> = 4.07 − 1.469 = 2.601 V
+- *NM*<sub>*H*</sub> = *V*<sub>*O**H*</sub> − *V*<sub>*I**H*</sub> = 4.07 − 1.469 = 2.601 V
 
-- *N**M*<sub>*L*</sub> = *V*<sub>*I**L*</sub> − *V*<sub>*O**L*</sub> = 1.183 − 0.233 = 0.950 V
+- *NM*<sub>*L*</sub> = *V*<sub>*I**L*</sub> − *V*<sub>*O**L*</sub> = 1.183 − 0.233 = 0.950 V
 
 Capacitance only resists changes in AC, meaning that it affects the
 speed of the gate, not the final voltage levels it reaches.
@@ -67,13 +67,13 @@ These values are given by *Δ*X shown on the oscilloscope.
 
 # Q3 74HC00 Noise Margin
 
-- *V*<sub>*I**H*</sub> = 2.317 V
+- *V*<sub>*IH*</sub> = 2.317 V
 
-- *V*<sub>*I**L*</sub> = 2.15 V
+- *V*<sub>*IL*</sub> = 2.15 V
 
-- *V*<sub>*O**H*</sub> = 5.03 V
+- *V*<sub>*OH*</sub> = 5.03 V
 
-- *V*<sub>*O**L*</sub> = 0.400 V
+- *V*<sub>*OL*</sub> = 0.400 V
 
 - *N**M*<sub>*H*</sub> = *V*<sub>*O**H*</sub> − *V*<sub>*I**H*</sub> = 5.03 − 2.317 = 2.713 V
 
@@ -125,7 +125,7 @@ These values are given by *Δ*X shown on the oscilloscope.
 # Q5
 
 <figure id="fig1:q5" data-latex-placement="H">
-<img src="/images/ELEN3802/Screenshot 2026-02-03 at 3.21.48 PM.png"
+<img src="/images/ELEN3802/Lab1Q5.png"
 style="width:75.0%" />
 <figcaption>Q5 Green=input signal. Yellow=output signal</figcaption>
 </figure>
@@ -136,31 +136,31 @@ expected).
 As we increased the frequency, the following output is obtained:
 
 <figure id="fig2:q5" data-latex-placement="H">
-<img src="/images/ELEN3802/Screenshot 2026-02-03 at 3.01.01 PM.png"
+<img src="/images/ELEN3802/Lab1Q5_2.png"
 style="width:75.0%" />
 <figcaption>Q5 Green=input signal. Yellow=output signal</figcaption>
 </figure>
 
 <figure id="fig3:q5" data-latex-placement="H">
-<img src="/images/ELEN3802/Screenshot 2026-02-03 at 3.22.42 PM.png"
+<img src="/images/ELEN3802/Lab1Q5_3.png"
 style="width:75.0%" />
 <figcaption>Q5 Green=input signal. Yellow=output signal</figcaption>
 </figure>
 
 <figure id="fig4:q5">
-<img src="/images/ELEN3802/Screenshot 2026-02-03 at 3.05.31 PM.png"
+<img src="/images/ELEN3802/Lab1Q5_4.png"
 style="width:75.0%" />
 <figcaption>Keep increasing the frequency</figcaption>
 </figure>
 
 <figure id="fig5:q5">
-<img src="/images/ELEN3802/Screenshot 2026-02-03 at 3.23.33 PM.png"
+<img src="/images/ELEN3802/Lab1Q5_5.png"
 style="width:75.0%" />
 <figcaption>Keep increasing the frequency</figcaption>
 </figure>
 
 <figure id="fig6:q5">
-<img src="/images/ELEN3802/Screenshot 2026-02-03 at 3.24.20 PM.png"
+<img src="/images/ELEN3802/Lab1Q5_6.png"
 style="width:75.0%" />
 <figcaption>High frequency</figcaption>
 </figure>
@@ -192,11 +192,11 @@ and blue, respectively.
 
 <figure id="fig:q6_parallel" data-latex-placement="H">
 <figure id="fig:q6_pressed">
-<img src="/images/ELEN3802/Screenshot 2026-02-03 at 3.18.25 PM.png" />
+<img src="/images/ELEN3802/Lab1Q6_1.png" />
 <figcaption>R and S are high, Q is low. (button is pressed)</figcaption>
 </figure>
 <figure id="fig:q6_not_pressed">
-<img src="/images/ELEN3802/Screenshot 2026-02-03 at 3.25.17 PM.png" />
+<img src="/images/ELEN3802/Lab1Q6_2.png" />
 <figcaption>R is low, S is high, Q is high. (button not pressed)
 </figcaption>
 </figure>
