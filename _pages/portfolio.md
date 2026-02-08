@@ -16,3 +16,8 @@ _Teaching and Research Assistant_ Spring 2024 - Spring 2025 <br />
 mark the key points of instruction for PHY321 Introduction to Electronics. <br />
 • Experimented with different teaching kits chosen by the professor to facilitate in selecting a kit that is
 more conducive to teaching and learning. <br />
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
