@@ -23,7 +23,7 @@ repository               : "https://Edler-Li/songhangli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile.png"
   name             : "Songhang Li"
   pronouns         : # example: "she/her"  
   bio              : "B.S. in Electric Engineering"
