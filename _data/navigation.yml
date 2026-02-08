@@ -15,8 +15,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Courses"
+    url: /courses/    
     
   - title: "CV"
     url: /files/lshcv.pdf
