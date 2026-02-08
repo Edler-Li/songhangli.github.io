@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+redirect_from:
+  - /portfolio
+---
+
+{% include base_path %}
 
 
 Department of Physics and Astronomy, **Franklin & Marshall College** **一** **Lancaster, PA** <br />
