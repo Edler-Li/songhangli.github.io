@@ -6,7 +6,7 @@ collection: portfolio
 # Q1 Noise Margin
 
 <figure id="fig:placeholder" data-latex-placement="H">
-<img src="../images/ELEN3802/Lab1Q1.png" style="width:75.0%" />
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q1.png" style="width:75.0%" />
 <figcaption>Q1 XY mode</figcaption>
 </figure>
 
