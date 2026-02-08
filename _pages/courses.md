@@ -9,11 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-**Franklin & Marshall College** **一** **Lancaster, PA** <br />
+**Columbia University**<br />
+---
+**Spring 2026**<br />
 
-_Teaching and Research Assistant_ Spring 2024 - Spring 2025 <br />
-• Compared and contrasted two different textbooks and completed textbook exercises to help the professor
-mark the key points of instruction for PHY321 Introduction to Electronics. <br />
-• Experimented with different teaching kits chosen by the professor to facilitate in selecting a kit that is
-more conducive to teaching and learning. <br />
+**Fall 2025**<br />
 
+
+**Franklin & Marshall College**<br />
+---
+**Spring 2025**<br />
+
+
+**Fall 2024**<br />
+
+
+**Spring 2024**<br />
+
+
+**Fall 2023**<br />
+
+
+**Spring 2023**<br />
+
+
+**Fall 2022**<br />
+
+
+**Spring 2022**<br />
+
+
+**Fall 2021**<br />
+
+
+**Fall 2020**<br />
