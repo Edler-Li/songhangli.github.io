@@ -19,7 +19,7 @@ Luminescence as a Probe of Local Crystallinity in Combustion-Synthesized LaAlO3 
 
 **Conference Presentations**<br />
 ---
-**[1]** **Songhang Li** & J.K. Krebs. (2024, Nov 15). _Rate equation model for fluorescence and phosphorescence in Eu3+ doped LaAlO3_. Poster presented at the Mid-Atlantic Section of the American Physical Society Meeting, Temple University, PA. <br /> 
+**[1]** **Songhang Li** & J.K. Krebs. (2024, Nov 15). _Rate equation model for fluorescence and phosphorescence in Eu3+ doped LaAlO3_. Poster presented at the Mid-Atlantic Section of the American Physical Society Meeting, Temple University, PA. [Abstract](https://meetings.aps.org/Meeting/MAS24/Session/F01.18) <br /> 
 
 **[2]** **Songhang Li** & J.K. Krebs. (2024, Oct 18). _Photon Counting Experiment of Persistent Luminescence in Eu:LAP_. Poster presented at the Student Research Fair, Franklin and Marshall College, PA. <br />
 
