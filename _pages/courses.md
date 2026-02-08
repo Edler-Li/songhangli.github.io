@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Teaching Experience"
-permalink: /teaching/
+title: "Courses"
+permalink: /courses/
 author_profile: true
 redirect_from:
-  - /teaching
+  - /courses
 ---
 
 {% include base_path %}
