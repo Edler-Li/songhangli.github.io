@@ -18,9 +18,9 @@ collection: portfolio
 
 - *V*<sub>*OL*</sub> = 0.233 V
 
-- *NM*<sub>*H*</sub> = *V*<sub>*O**H*</sub> − *V*<sub>*I**H*</sub> = 4.07 − 1.469 = 2.601 V
+- *NM*<sub>*H*</sub> = *V*<sub>*OH*</sub> − *V*<sub>*IH*</sub> = 4.07 − 1.469 = 2.601 V
 
-- *NM*<sub>*L*</sub> = *V*<sub>*I**L*</sub> − *V*<sub>*O**L*</sub> = 1.183 − 0.233 = 0.950 V
+- *NM*<sub>*L*</sub> = *V*<sub>*IL*</sub> − *V*<sub>*OL*</sub> = 1.183 − 0.233 = 0.950 V
 
 Capacitance only resists changes in AC, meaning that it affects the
 speed of the gate, not the final voltage levels it reaches.
@@ -75,9 +75,9 @@ These values are given by *Δ*X shown on the oscilloscope.
 
 - *V*<sub>*OL*</sub> = 0.400 V
 
-- *N**M*<sub>*H*</sub> = *V*<sub>*O**H*</sub> − *V*<sub>*I**H*</sub> = 5.03 − 2.317 = 2.713 V
+- *NM*<sub>*H*</sub> = *V*<sub>*OH*</sub> − *V*<sub>*IH*</sub> = 5.03 − 2.317 = 2.713 V
 
-- *N**M*<sub>*L*</sub> = *V*<sub>*I**L*</sub> − *V*<sub>*O**L*</sub> = 2.15 − 0.400 = 1.750 V
+- *NM*<sub>*L*</sub> = *V*<sub>*IL*</sub> − *V*<sub>*OL*</sub> = 2.15 − 0.400 = 1.750 V
 
 <figure id="fig:Q3_74HC00_XY" data-latex-placement="H">
 <img src="/images/ELEN3802/Lab1Q3_74HC00_XY.png" style="width:75.0%" />
