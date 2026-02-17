@@ -4,5 +4,5 @@ excerpt: "CONSTRUCTING DEGREE 4 VERTEX RIGID-FOLDABLE THICK ORIGAMI BY VOLUME TR
 collection: portfolio
 ---
 
-[**Presentation**](/files/MAT372OrigamiPresentation.pdf) <br/>
+[**Presentation**](files/MAT372OrigamiPresentation.pdf) <br/>
 [**Final Project**](/files/MAT372OrigamiProject.pdf) <br/>
