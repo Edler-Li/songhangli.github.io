@@ -15,6 +15,7 @@ redirect_from:
 • ELEN 3331 Electronic Circuits (+Lab) <br />
 • ELEN 3082 Digital Systems <br />
 • ELEN 3701 Introduction to Communication Systems <br />
+• ELEN 4193 Modern Display Science and Technology <br />
 • CSEE 3827 Fundamentals of Computer Systems (+Lab) <br />
 • PHED 1002 Swimming 1 <br />
 
@@ -30,7 +31,11 @@ redirect_from:
 **Franklin & Marshall College**<br />
 ---
 **Spring 2025**<br />
-
+• PHY 344 Quantum Mechanics <br />
+• PHY 422 Advanced Methods of Physics <br />
+• MAT 372 Origami Math <br />
+• ECO 103 Political Economics <br />
+• MUS 485 Voice Recital <br />
 
 **Fall 2024**<br />
 • CPS 112 Computer Science II <br />
@@ -86,11 +91,3 @@ redirect_from:
 • PHY 175 Introduction to Mechanics <br />
 • MUS 150 College Chorus <br />
 
-**Summer 2021**<br />
-• ART 142 Digital Photography I <br />
-
-**Fall 2020**<br />
-• ECO 110 Introduction to Economic Principles <br />
-• PHI 244 Sympolic Logic <br />
-• CNX 121 Storytelling <br />
-• IST 175 Engaging: Liberal Arts at F&M <br />
