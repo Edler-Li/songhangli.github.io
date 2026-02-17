@@ -17,14 +17,14 @@ redirect_from:
 • ELEN 3701 Introduction to Communication Systems <br />
 • ELEN 4193 Modern Display Science and Technology <br />
 • CSEE 3827 Fundamentals of Computer Systems (+Lab) <br />
-• PHED 1002 Swimming 1 <br />
+• PHED 1002 Swimming Lap <br />
 
 
 **Fall 2025**<br />
 • ELEN 3106 Solid-State Devices and Materials <br />
 • ELEN 3201 Circuit Analysis (+Lab) <br />
 • ELEN 3801 Signals and Systems (+Lab) <br />
-• PHED 1002 Swimming 1 <br />
+• PHED 1002 Swimming Lap <br />
 
 
 
