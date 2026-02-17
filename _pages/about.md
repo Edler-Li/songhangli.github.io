@@ -47,3 +47,8 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 
 **Additional Technical Skills**: Laser cutting/fabrication (Glowforge), technical documentation (LaTeX, Endnote), design visualization and project planning (X-mind), image processing (Adobe Lightroom, Photoshop). <br />
 
+
+**More about me**
+---
+I love singing, photograhy(potrait and darkroom), and visit national parks.<br /> 
+Tennis, swimming, and cycling.
