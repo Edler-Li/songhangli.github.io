@@ -5,4 +5,5 @@ collection: portfolio
 ---
 
 [**Presentation**](files/MAT372OrigamiPresentation.pdf) <br/>
-[**Final Project**](/files/MAT372OrigamiProject.pdf) <br/>
+[**Final Project**](files/MAT372OrigamiProject.pdf) <br/>
+
