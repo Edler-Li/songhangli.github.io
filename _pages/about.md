@@ -43,8 +43,7 @@ Bachelor of Arts, Physics and Mathematics (Sep 2020 - May 2025)  <br />
 
 **Software**: SPICE, IntelliJ, Arduino IDE, AutoCAD, MATLAB, CompleteEASE(optical modeling and ellipsometry data fitting). <br />
 
-**Design & Analysis Skills**: Analog and digital circuit simulation (AC/DC/transient analysis), circuit design and debugging, PCB layout and soldering, signal characterization, test automation and data analysis with Python/MATLAB, Circuit testing, Characterization of electronic components and semiconductor materials, Embedded prototyping and validation. <br />
+**Design & Analysis Skills**: Analog and digital circuit simulation (AC/DC/transient analysis), circuit design and debugging, PCB layout and soldering, signal characterization, test automation and data analysis with Python/MATLAB, Characterization of electronic components and semiconductor materials, Embedded prototyping and validation. <br />
 
 **Additional Technical Skills**: Laser cutting/fabrication (Glowforge), technical documentation (LaTeX, Endnote), design visualization and project planning (X-mind), image processing (Adobe Lightroom, Photoshop). <br />
 
-**Languages**: Mandarin native, Hakka native. <br />
