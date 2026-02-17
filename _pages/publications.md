@@ -23,4 +23,4 @@ Luminescence as a Probe of Local Crystallinity in Combustion-Synthesized LaAlO3 
 
 **[2]** **Songhang Li** & J.K. Krebs. (2024, Oct 18). _Photon Counting Experiment of Persistent Luminescence in Eu:LAP_. Poster presented at the Student Research Fair, Franklin and Marshall College, PA. <br />
 
-**[3]** **Songhang Li** & J.K. Krebs. (2024, Apr 20). _Design, construction, testing, and improving: An introduction to Engineering Design Competitions. Poster presented at the Student Research Fair, Franklin and Marshall College, PA. <br />
+**[3]** **Songhang Li** & J.K. Krebs. (2024, Apr 20). _Design, construction, testing, and improving: An introduction to Engineering Design Competitions_. Poster presented at the Student Research Fair, Franklin and Marshall College, PA. <br />
