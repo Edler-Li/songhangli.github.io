@@ -50,5 +50,5 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 
 **More about me**
 ---
-I love singing, photograhy(potrait and darkroom), and visit national parks.<br /> 
+I love singing, photograhy(potrait and darkroom), visiting national parks, and RC airplane.<br /> 
 Tennis, swimming, and cycling.
