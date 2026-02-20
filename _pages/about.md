@@ -11,7 +11,9 @@ I am a rising senior at **Columbia University**, majoring in _Electrical Enginee
 
 My research interests lie in analog and digital IC design, and solid state materials and devices.
 
-Previously, I contributed to research projects in the laboratories of Professor John Kenneth Krebs, where I worked on Eu3+ Luminescence as a probe of local crystallinity, and Professor Lin Zhang, where I focused on hydrogel based piezoelectric sensors for wearable devices.
+Previously, I contributed to research projects in the laboratories of 
+Professor John Kenneth Krebs, where I worked on Eu3+ Luminescence as a probe of local crystallinity, and 
+Professor Lin Zhang, where I focused on hydrogel based piezoelectric sensors for wearable devices.
 
 
 **Education**<br />
