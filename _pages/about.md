@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior at **Columbia University**, majoring in _Electrical Engineering_ as part of the combined plan with **Franklin & Marshall College**, where I completed my B.A. in _Physics and Mathematics_.
+I am a rising senior at **Columbia University**, majoring in _Electrical Engineering_ as part of the combined plan with **Franklin & Marshall College**, where I completed my B.A. in _Physics and Mathematics_.
 
 My research interests lie in analog and digital IC design, and solid state materials and devices.
-
 
 Previously, I contributed to research projects in the laboratories of Professor John Kenneth Krebs, where I worked on Eu3+ Luminescence as a probe of local crystallinity, and Professor Lin Zhang, where I focused on hydrogel based piezoelectric sensors for wearable devices.
 
