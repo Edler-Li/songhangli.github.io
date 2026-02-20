@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising senior at **Columbia University**, majoring in _Electrical Engineering_ as part of the combined plan with **Franklin & Marshall College**, where I completed my B.A. in _Physics and Mathematics_.
+I am a rising senior at **Columbia University**, majoring in _Electrical Engineering_ as part of the combined plan with **Franklin & Marshall College**, where I completed my B.A. in _Physics and Mathematics_, receiving the Frank Durrell Enck Memorial Prize in Physics.
 
 My research interests lie in analog and digital IC design, and solid state materials and devices.
 
@@ -28,6 +28,7 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 
 **Honors and Awards**
 ---
+• F&M 238th commencement Alma Mater Singer _F&M_ (2025) <br />
 • Kershner Scholar in Mathematics, _F&M_ (2025) <br />
 • The Nolt Music Award, _F&M_ (2025) <br />
 • Frank Durrell Enck Memorial Prize in Physics, _F&M_ (2025) <br />
@@ -54,5 +55,5 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 
 **More about me**
 ---
-I love singing, photograhy(potrait, landscape, and darkroom), visiting national parks, and RC airplane.<br /> 
+I love singing(2025 Alma Mater Singer), photograhy(potrait, landscape, and darkroom), visiting national parks, and RC airplane.<br /> 
 Tennis, swimming, and cycling.
