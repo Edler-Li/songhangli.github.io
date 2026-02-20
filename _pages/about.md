@@ -12,6 +12,9 @@ I am a junior at **Columbia University**, majoring in _Electrical Engineering_ a
 My research interests lie in analog and digital IC design, and solid state materials and devices.
 
 
+Previously, I contributed to research projects in the laboratories of Professor John Kenneth Krebs, where I worked on Eu3+ Luminescence as a probe of local crystallinity, and Professor Lin Zhang, where I focused on hydrogel based piezoelectric sensors for wearable devices.
+
+
 **Education**<br />
 ---
 **Columbia University – New York, NY**<br />
@@ -27,7 +30,7 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 • Kershner Scholar in Mathematics, _F&M_ (2025) <br />
 • The Nolt Music Award, _F&M_ (2025) <br />
 • Frank Durrell Enck Memorial Prize in Physics, _F&M_ (2025) <br />
-• Summer Scholar Award, _F&M_ (2024) <br />
+• Hackman Summer Scholar Award, _F&M_ (2024) <br />
 • Student Independent Research Grants, _F&M_ (2023) <br />
 • Kershner Scholar in Physics, _F&M_ (2023) <br />
 • Dean’s and Honors Lists, _F&M_ (2021-2025) <br />
