@@ -15,11 +15,10 @@ the excitation time interval and intensity play a significant role in measuring 
 The existing spinning disk shutter in the lab, however, has critical limitations: it cannot provide excitation intervals longer than 10 seconds, 
 nor can it operate at the microsecond timescales required for time-resolved measurements. 
 Specifically, the experiment demands both
--extended dark periods of up to 20 seconds between excitation pulses allowing complete relaxation of the sample back to its ground state and
--ultrashort excitation bursts on the order of microseconds to isolate and capture the photon emission profile during early-state decay.
+- extended dark periods of up to 20 seconds between excitation pulses allowing complete relaxation of the sample back to its ground state and
+- ultrashort excitation bursts on the order of microseconds to isolate and capture the photon emission profile during early-state decay.
 
 These two requirements exist at opposite ends of the temporal spectrum and cannot be realized by a single mechanical spinning disk. 
-
 As a result, precise control over excitation timing is lost, introducing uncertainty into the photon counting data and limiting the decay measurements. To overcome these constraints, a new shutter control system is required. 
 
 This project presents the design and implementation of an Arduino-based controller paired with an H-bridge motor driver module 
