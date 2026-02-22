@@ -6,3 +6,13 @@ Developed a circuit solution using Arduino to precisely control excitation laser
 enabling photon counting of early state decay. <br/>"
 collection: portfolio
 ---
+
+# Design goal
+Developing a controller using an Arduino and H-bridge module to precisely control an excitation laser mechanical shutter, enabling photon counting of early-state decay.
+
+# Background
+In the research project of Photon Counting Experiment of Persistent Luminescence in Eu:LAP of Professor Ken Krebs, 
+the excitation time interval and intensity played a significally role in measuring the photon emission. 
+However, the spinning disk in the lab cannot provide neither the time interval more than 10 seconds nor in micro second scale excitation. 
+The 20 seconds interval between each excitation and micro seconds excitation. Therefore, the new shutter design is needed.
+ 
