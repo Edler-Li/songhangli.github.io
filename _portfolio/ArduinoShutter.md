@@ -16,10 +16,10 @@ The existing spinning disk shutter in the lab, however, has critical limitations
 nor can it operate at the microsecond timescales required for time-resolved measurements. 
 Specifically, the experiment demands both 
 
-1. extended dark periods of up to 20 seconds between excitation pulses allowing complete relaxation of the sample back to its ground state 
+## 1. extended dark periods of up to 20 seconds between excitation pulses allowing complete relaxation of the sample back to its ground state 
 and 
 
-2. ultrashort excitation bursts on the order of microseconds to isolate and capture the photon emission profile during early-state decay.
+## 2. ultrashort excitation bursts on the order of microseconds to isolate and capture the photon emission profile during early-state decay.
 
 These two requirements exist at opposite ends of the temporal spectrum and cannot be realized by a single mechanical spinning disk. 
 
