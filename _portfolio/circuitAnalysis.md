@@ -1,12 +1,10 @@
 ---
 title: "ELEN 3201 Circuit Analysis Lab"
-excerpt: "Short description of ELEN 3201 Circuit Analysis <br/>"
+excerpt: "Filter Design & AC Transient Analysis <br/>"
 collection: portfolio
 ---
 
 <div style="text-align:center; font-size:1.2em;">
-<strong>ELEN 3201 – Circuit Analysis Experiment 4</strong><br>
-State Variable Filter Design & Damping Analysis
 </div>
 
 <hr>
@@ -67,6 +65,7 @@ $$
 #  Damping Control via $R_3$
 
 | Condition | $R_3$ | Behavior |
+
 |-----------|-------|----------|
 | Underdamped | 0.2 MΩ | Oscillatory |
 | Critical | 2 MΩ | Fastest non-oscillatory |
@@ -79,7 +78,7 @@ $$
 
 ---
 
-#  Scaling to $\omega_0 = 100$
+# Scaling to $\omega_0 = 100$
 
 To maintain critical damping:
 
