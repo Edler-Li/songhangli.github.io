@@ -1,5 +1,5 @@
 ---
-title: "DC mechanical shutter with H bridget controller and Arduino"
+title: "DC Mechanical Shutter with H Bridget Controller and Arduino"
 excerpt: "This subproject was part of the Photon Counting Experiment of Persistent Luminescence in Eu:LAP<br/>
 
 Developed a circuit solution using Arduino to precisely control excitation laser mechanical shutter <br/>"
