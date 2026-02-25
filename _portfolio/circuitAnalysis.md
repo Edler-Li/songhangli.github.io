@@ -4,47 +4,38 @@ excerpt: "Short description of ELEN 3201 Circuit Analysis <br/>"
 collection: portfolio
 ---
 
-# ELEN 3201 Circuit Analysis Experiment 4  
-*November 2025*
+<div style="text-align:center; font-size:1.2em;">
+<strong>ELEN 3201 – Circuit Analysis Experiment 4</strong><br>
+State Variable Filter Design & Damping Analysis
+</div>
 
----
+<hr>
 
-# Part 1
-
----
-
-## (a) Underdamped Case
-
-Given:
+# 🔹 System Parameters
 
 $$
-R_1 = R_2 = R_3 = R_4 = R_5 = R_6 = R_7 = R_8 = 1\,\text{M}\Omega
-$$
-
-$$
+R_i = 1\,\text{M}\Omega
+\quad
 C_1 = C_2 = 1\,\mu\text{F}
 $$
 
-Natural frequency:
+Natural Frequency:
 
 $$
-\omega_0
-= \sqrt{\frac{K_1}{\tau_1 \tau_2}}
-= \sqrt{\frac{R_5}{R_6} \cdot \frac{1}{R_1 C_1 R_2 C_2}}
-= 1
+\omega_0 = 1 \text{ rad/s}
 $$
 
 Damping:
 
 $$
-\alpha = \frac{1}{2}
-\quad\quad
-\omega_d = \frac{\sqrt{3}}{2}
+\zeta = 0.5 \quad (\text{Underdamped})
 $$
 
-Since $\zeta = 0.5 < 1$, the system is **underdamped**.
+---
 
-Final response:
+# 🔹 Time-Domain Response
+
+Final solution:
 
 $$
 x(t)
@@ -61,93 +52,61 @@ $$
 
 ---
 
-<figure>
-<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1Schematic.png" style="width:75%">
-<figcaption>Part 1 Schematic</figcaption>
-</figure>
+<div align="center">
+<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1Schematic.png" width="65%">
+<p><em>State Variable Filter Schematic</em></p>
+</div>
 
-<figure>
-<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1aSimulation.png" style="width:100%">
-<figcaption>Simulation (green) vs Ideal (red)</figcaption>
-</figure>
+<br>
 
-<figure>
-<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1aMeasurement.png" style="width:50%">
-<figcaption>Measurement</figcaption>
-</figure>
+<div align="center">
+<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1aSimulation.png" width="85%">
+<p><em>Simulation vs Ideal Response</em></p>
+</div>
 
 ---
 
-## (b) Shorting $R_3$
+# 🔹 Damping Control via $R_3$
 
-Shorting $R_3$ removes damping ($\zeta = 0$).  
-The system oscillates indefinitely (ideal case).
+| Condition | $R_3$ | Behavior |
+|-----------|-------|----------|
+| Underdamped | 0.2 MΩ | Oscillatory |
+| Critical | 2 MΩ | Fastest non-oscillatory |
+| Overdamped | 20 MΩ | Slow monotonic |
 
-<figure>
-<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1bSimulation.png" style="width:100%">
-<figcaption>Simulation – Shorted R3</figcaption>
-</figure>
-
----
-
-## (c) Critically Damped
-
-To achieve $\zeta = 1$:
-
-$$
-Q = \frac{1}{2}
-\quad \Rightarrow \quad
-K_3 = 2
-$$
-
-$$
-R_3 = 2\,\text{M}\Omega
-$$
-
-<figure>
-<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1cSimulation.png" style="width:100%">
-<figcaption>Critically Damped ($R_3 = 2M\Omega$)</figcaption>
-</figure>
+<div align="center">
+<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1cSimulation.png" width="85%">
+<p><em>Critical Damping</em></p>
+</div>
 
 ---
 
-## (d) Scaling to $\omega_0 = 100$
+# 🔹 Scaling to $\omega_0 = 100$
 
-Maintain:
+To maintain critical damping:
 
 $$
 Q = \frac{1}{2}
 $$
 
-Then:
-
-$$
-K_3 = 200
-$$
-
-Modify:
+Set:
 
 $$
 C_2 = 0.1\,\text{nF}
+\quad
+K_3 = 200
 $$
-
-Choose:
-
-- $R_4 = 2k\Omega$
-- $R_3 = 400k\Omega$ (critical)
-- $R_3 = 40k\Omega$ (underdamped)
-- $R_3 = 4M\Omega$ (overdamped)
 
 ---
 
-## (e) AC Analysis
+# 🔹 AC Response
 
-<figure>
-<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1e.png" style="width:100%">
-<figcaption>AC Simulation</figcaption>
-</figure>
+<div align="center">
+<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1e.png" width="90%">
+<p><em>Bode Response (Critical)</em></p>
+</div>
 
-For $\zeta = 1$:
+Behavior:
 
 - Low freq: $|H| \approx 1$
 - At $\omega_0$: $|H| = 0.5$
@@ -155,57 +114,50 @@ For $\zeta = 1$:
 
 ---
 
-## (f) $Q = 10$
+# 🔹 High-Q Case ($Q = 10$)
 
-Reduce $K_3$ by factor of 20.
+<div align="center">
+<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1f_Q10.png" width="90%">
+<p><em>Sharp Resonance for Q=10</em></p>
+</div>
 
-<figure>
-<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1f_Q10.png" style="width:100%">
-<figcaption>High-Q Response</figcaption>
-</figure>
-
-- Sharp resonance at $\approx 100$ rad/s  
-- Peak gain ≈ 10 (20 dB)  
+- Peak gain ≈ 20 dB  
 - Narrow bandwidth  
+- Rapid phase shift  
 
 ---
 
-## (g) U1 Output (Bandpass)
-
-<figure>
-<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1gU1output.png" style="width:100%">
-<figcaption>U1 Frequency Response</figcaption>
-</figure>
-
-Behavior:
-
-- Low freq → 0  
-- Peak at $\omega_0$  
-- High freq → 0  
-
----
-
-## (h) Transfer Function
+# 🔹 Transfer Function
 
 $$
-H_{U1}(\omega)
+H(\omega)
 =
 \frac{-j\omega \cdot 100}
 {-\omega^2 + j\omega \cdot 10 + 10000}
 $$
 
-Bandpass behavior centered at $\omega_0 = 100$ rad/s.
+Bandpass response centered at:
+
+$$
+\omega_0 = 100 \text{ rad/s}
+$$
 
 ---
 
-## (i) Second Resonance
+# 🔹 Extended Frequency Sweep
 
-<figure>
-<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1i1GHz.png" style="width:100%">
-<figcaption>Extended Frequency Sweep</figcaption>
-</figure>
+<div align="center">
+<img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1i1GHz.png" width="90%">
+<p><em>Second Resonant Mode (~100 kHz)</em></p>
+</div>
 
-Second resonance near 100 kHz.
+---
+
+<hr>
+
+<div style="text-align:center;">
+<em>Columbia University – Electrical Engineering</em>
+</div>
 
 ---
 
