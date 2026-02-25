@@ -11,7 +11,7 @@ State Variable Filter Design & Damping Analysis
 
 <hr>
 
-# 🔹 System Parameters
+#  System Parameters
 
 $$
 R_i = 1\,\text{M}\Omega
@@ -33,15 +33,13 @@ $$
 
 ---
 
-# 🔹 Time-Domain Response
+#  Time-Domain Response
 
 Final solution:
 
 $$
 x(t)
-=
-1 -
-e^{-0.5t}
+=1 - e^{-0.5t}
 \left[
 \cos\left(\frac{\sqrt{3}}{2}t\right)
 +
@@ -66,7 +64,7 @@ $$
 
 ---
 
-# 🔹 Damping Control via $R_3$
+#  Damping Control via $R_3$
 
 | Condition | $R_3$ | Behavior |
 |-----------|-------|----------|
@@ -81,7 +79,7 @@ $$
 
 ---
 
-# 🔹 Scaling to $\omega_0 = 100$
+#  Scaling to $\omega_0 = 100$
 
 To maintain critical damping:
 
@@ -99,7 +97,7 @@ $$
 
 ---
 
-# 🔹 AC Response
+#  AC Response
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1e.png" width="90%">
@@ -114,7 +112,7 @@ Behavior:
 
 ---
 
-# 🔹 High-Q Case ($Q = 10$)
+#  High-Q Case ($Q = 10$)
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1f_Q10.png" width="90%">
@@ -127,12 +125,11 @@ Behavior:
 
 ---
 
-# 🔹 Transfer Function
+#  Transfer Function
 
 $$
 H(\omega)
-=
-\frac{-j\omega \cdot 100}
+=\frac{-j\omega \cdot 100}
 {-\omega^2 + j\omega \cdot 10 + 10000}
 $$
 
@@ -144,19 +141,11 @@ $$
 
 ---
 
-# 🔹 Extended Frequency Sweep
+# Extended Frequency Sweep
 
 <div align="center">
 <img src="{{ site.baseurl }}/images/ELEN3201Exp4/part1i1GHz.png" width="90%">
 <p><em>Second Resonant Mode (~100 kHz)</em></p>
-</div>
-
----
-
-<hr>
-
-<div style="text-align:center;">
-<em>Columbia University – Electrical Engineering</em>
 </div>
 
 ---
