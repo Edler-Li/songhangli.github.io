@@ -11,4 +11,10 @@ collection: portfolio
 </figure>
 
 
+<figure id="fig:placeholder" data-latex-placement="H">
+<img src="{{ site.baseurl }}/images/ELEN3802/Lab1Q1.png" style="width:75.0%" />
+<figcaption>Q1 XY mode</figcaption>
+</figure>
+
+
 
