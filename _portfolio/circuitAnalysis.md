@@ -65,7 +65,6 @@ $$
 #  Damping Control via $R_3$
 
 | Condition | $R_3$ | Behavior |
-
 |-----------|-------|----------|
 | Underdamped | 0.2 MΩ | Oscillatory |
 | Critical | 2 MΩ | Fastest non-oscillatory |
@@ -90,8 +89,7 @@ Set:
 
 $$
 C_2 = 0.1\,\text{nF}
-\quad
-K_3 = 200
+\quad K_3 = 200
 $$
 
 ---
@@ -105,9 +103,9 @@ $$
 
 Behavior:
 
-- Low freq: $|H| \approx 1$
-- At $\omega_0$: $|H| = 0.5$
-- High freq: $|H| \sim (\omega_0/\omega)^2$
+- Low freq: $\|H\| \approx 1$
+- At $\omega_0$: $\|H\| = 0.5$
+- High freq: $\|H\| \sim (\omega_0/\omega)^2$
 
 ---
 
