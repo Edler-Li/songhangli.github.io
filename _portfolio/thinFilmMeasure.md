@@ -1,5 +1,5 @@
 ---
-title: "Characterization of Ferroelectric Material (PLZT)"
+title: "Characterization of Ferroelectric Material (PLZT Thin Film)"
 excerpt: "Electrical and Optical Measurement of Ferroelectric Material (PLZT)  <br/>"
 collection: portfolio
 ---
