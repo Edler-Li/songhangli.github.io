@@ -12,11 +12,11 @@ redirect_from:
 **Columbia University**<br />
 ---
 **Spring 2026**<br />
+• CSEE 3827 Fundamentals of Computer Systems (+Lab) <br />
 • ELEN 3331 Electronic Circuits (+Lab) <br />
 • ELEN 3082 Digital Systems <br />
 • ELEN 3701 Introduction to Communication Systems <br />
 • ELEN 4193 Modern Display Science and Technology <br />
-• CSEE 3827 Fundamentals of Computer Systems (+Lab) <br />
 • PHED 1002 Swimming Lap <br />
 
 
@@ -32,13 +32,13 @@ redirect_from:
 ---
 **Spring 2025**<br />
 • PHY 344 Quantum Mechanics <br />
-• PHY 422 Advanced Methods of Physics <br />
-• MAT 372 Origami Math <br />
+• PHY 422 Advanced Methods of Physics(projects) <br />
+• MAT 372 Origami Math(project) <br />
 • ECO 103 Political Economics <br />
 • MUS 485 Voice Recital <br />
 
 **Fall 2024**<br />
-• CPS 112 Computer Science II <br />
+• CPS 112 CS II - Data Structure with Java <br />
 • PHY 490 Independent Study-Physics <br />
 • ART 121 Introduction to Architecture I <br />
 • GOV 101 Power and Politics <br />
@@ -52,7 +52,7 @@ redirect_from:
 **Spring 2024**<br />
 • PHY 491 Enigneering Design Lab 2 <br />
 • PHY 490 Independent Study-Physics <br />
-• PHY 226 Classical Mechanics <br />
+• PHY 226 Classical Mechanics(+computational lab) <br />
 • MAT 430 Advanced Linear Algebra <br />
 • ART 224 Chinese Brush and Ink Painting <br />
 
@@ -63,14 +63,14 @@ redirect_from:
 • MAT 330 Abstract Algebra <br />
 
 **Spring 2023**<br />
-• CPS 111 Computer Science I <br />
+• CPS 111 Computer Science I - Python <br />
 • CHM 111 General Chemistry 1 <br />
 • MAT 211 Introduction to Higher Mathematics <br />
 • PHY 490 Independent Study-Physics <br />
 • MUS 285 Voice <br />
 
 **Fall 2022**<br />
-• PHY 223 Modern Physics <br />
+• PHY 223 Intro to Quantum Mechanics, Relativity <br />
 • PHY 321 Experimental Physics: Electronics <br />
 • MAT 229 Linear Algebra and Differential Equations <br />
 • PHY 490 Independent Study-Physics <br />
@@ -86,7 +86,7 @@ redirect_from:
 • MUS 250 College Chorus <br />
 
 **Fall 2021**<br />
-• MAT 215 Introduction to Statistical Modeling <br />
+• MAT 215 Introduction to Statistical Modeling (final project) <br />
 • MAT 109 Calculus I <br />
 • PHY 175 Introduction to Mechanics <br />
 • MUS 150 College Chorus <br />
