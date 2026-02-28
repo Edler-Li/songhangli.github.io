@@ -4,7 +4,7 @@ excerpt: "A power and lift efficient, short-take-off-length 3.8 meters fixed win
 collection: portfolio
 ---
 
-
+<img src="{{ site.baseurl }}/images/SAEAeroPoster.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
 # Overview
 
