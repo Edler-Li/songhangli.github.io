@@ -38,7 +38,7 @@ redirect_from:
 • MUS 485 Voice Recital <br />
 
 **Fall 2024**<br />
-• CPS 112 CS II - Data Structure with Java <br />
+• CPS 112 Computer Science II - Data Structure with Java <br />
 • PHY 490 Independent Study-Physics <br />
 • ART 121 Introduction to Architecture I <br />
 • GOV 101 Power and Politics <br />
