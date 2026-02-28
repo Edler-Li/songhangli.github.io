@@ -4,6 +4,8 @@ excerpt: "A power and lift efficient, short-take-off-length 3.8 meters fixed win
 collection: portfolio
 ---
 
+Poster presented at the Spring 2024 Student Research Fair, Franklin and Marshall College, PA. <br/>
+
 <img src="{{ site.baseurl }}/images/SAEAeroPoster.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
 # Overview
