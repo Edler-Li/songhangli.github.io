@@ -6,3 +6,6 @@ widely used in lighting (LED) and display
 technologies and medical imaging <br/>"
 collection: portfolio
 ---
+Poster presented at the Mid-Atlantic Section of the American Physical Society Meeting, Temple University, PA.<br/>
+
+<img src="{{ site.baseurl }}/images/LaAIO3_photo.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
