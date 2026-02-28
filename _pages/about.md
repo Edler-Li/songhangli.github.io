@@ -55,5 +55,5 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 
 **More about me**
 ---
-I love singing(2025 Alma Mater Singer), photograhy(potrait, landscape, and darkroom), visiting national parks, and RC airplane.<br /> 
-As for sports, tennis, swimming, and cycling.
+I love singing (Alma Mater Singer at _2025 F&M Commencement_), photograhy (potrait, landscape, and darkroom), visiting national parks, and RC airplane.<br /> 
+As for sports, I enjoy playing tennis, swimming, and cycling.<br /> 
