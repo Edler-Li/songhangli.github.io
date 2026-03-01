@@ -26,8 +26,11 @@ to operate a mechanical laser shutter with high temporal precision.
 The system is capable of triggering shutter open and close events across a wide dynamic range time, from millisecond excitation pulses to multi-second intervals, offering the flexibility needed for both fast and slow photon counting experiment. 
 The design prioritizes low-latency response, repeatability, and ease of integration with existing experimental setups.
 
-
-<img src="{{ site.baseurl }}/images/DC1.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+<figure>
+  <img src="{{ site.baseurl }}/images/DC1.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+  <figcaption><br/>
+    <b>Note:</b> By HiLetgo.</figcaption>
+</figure>
 
 <img src="{{ site.baseurl }}/images/DC2.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
