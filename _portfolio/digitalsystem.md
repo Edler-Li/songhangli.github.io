@@ -2,6 +2,7 @@
 title: "ELEN 3802 Digital System Lab"
 excerpt: "ELEN 3802 Digital System Lab Reports<br/>"
 collection: portfolio
+date: 2024-01-01
 ---
 # Lab 1
 # Q1 Noise Margin
