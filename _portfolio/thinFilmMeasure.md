@@ -45,13 +45,36 @@ capacitance measurements.
 # Acquiring thickness, refraction index
 
 ## Fit
-<img src="{{ site.baseurl }}/images/PLZT1.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+
+* **MSE** = 6.901
+* **Roughness** = 25.06 ± 0.179 nm
+* **Thickness #1** = 96.73 ± 0.069 nm
+* **Cauchy Parameters:**
+  * A = 2.094 ± 0.001754
+  * B = 0.02620 ± 0.001044
+  * C = -0.00080784 ± 0.00013435
+* **% Thickness Non-uniformity** = 20.88 ± 0.776
+* **n of Cauchy Film** (@ 632.8 nm) = 2.15427
 
 ## Model
 
-10052401_PLZT_on_Silicon
+Include Surface Roughness = ON | Roughness = **<u>25.06 nm</u>** (fit)
 
-<img src="{{ site.baseurl }}/images/PLZT2.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+* **Layer #1 = Cauchy Film**
+  * Thickness #1 = **96.73 nm** (fit)
+  * A = 2.094 (fit) | B = 0.02620 (fit) | C = -0.00080784 (fit)
+  * k Amplitude = <u>0.0000</u> | Exponent = <u>1.500</u>
+  * Band Edge = 400.0 nm
+
+* **Global Parameters**
+  * Substrate = `SI_JAW`
+  * Angle Offset = <u>0.00</u>
+
+* **MODEL Options**
+  * Include Substrate Backside Correction = OFF
+  * Model Calculation = Include Thickness Non-uniformity
+  * % Thickness Non-uniformity = 20.88 (fit)
+  * \# of Pts = 9auto;">
 
 ## Capacitance
 
