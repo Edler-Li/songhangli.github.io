@@ -19,7 +19,17 @@ covering film application techniques.
 
 <img src="{{ site.baseurl }}/images/SAEWing.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
+<img src="{{ site.baseurl }}/images/SAEWing2.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+
 # Laser Cutter
+
+<img src="{{ site.baseurl }}/images/SAEphoto1.JPG" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+
+<img src="{{ site.baseurl }}/images/SAEphoto2.JPG" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+
+<img src="{{ site.baseurl }}/images/SAEphoto3.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+
+<img src="{{ site.baseurl }}/images/SAEphoto4.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
 ## Parameter
 
