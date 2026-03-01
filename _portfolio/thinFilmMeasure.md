@@ -24,6 +24,7 @@ capacitance measurements.
 - 0.200 mL PLZT
 - Pushed through Fahrenheit at 650 degrees
 
+<img src="{{ site.baseurl }}/images/PLZTFilm1.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
 # Ellipsometry measurement process: calibration, alignment, acquiring data
 
@@ -38,6 +39,7 @@ capacitance measurements.
 - Click Generate button under the Analysis panel
 - Click Fit button near the Generate button under the analysis panel
 
+<img src="{{ site.baseurl }}/images/PLZTFilm2.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
 # Acquiring thickness, refraction index
 
