@@ -4,15 +4,15 @@ excerpt: "Filter Design & AC Transient Analysis <br/>"
 collection: portfolio
 ---
 
-**[Experiment 4]({{ site.url }}{{ site.baseurl }}/files/Experiment4.pdf)** <br/>
+<b><a href="{{ site.url }}{{ site.baseurl }}/files/Experiment4.pdf" target="_blank" rel="noopener noreferrer">Experiment 4</a></b> <br/>
 
-**[Experiment 3]()** <br/>
+<b><a href="{{ site.url }}{{ site.baseurl }}/files/Experiment3.pdf" target="_blank" rel="noopener noreferrer">Experiment 3</a></b> <br/>
 
-**[Experiment 2]()** <br/>
+<b><a href="{{ site.url }}{{ site.baseurl }}/files/Experiment2.pdf" target="_blank" rel="noopener noreferrer">Experiment 2</a></b> <br/>
 
-**[Experiment 1]()** <br/>
+<b><a href="{{ site.url }}{{ site.baseurl }}/files/Experiment1.pdf" target="_blank" rel="noopener noreferrer">Experiment 1</a></b> <br/>
 
-**[Experiment 0]()** <br/>
+<b><a href="{{ site.url }}{{ site.baseurl }}/files/Experiment3.pdf" target="_blank" rel="noopener noreferrer">Experiment 0</a></b> <br/>
 
 
 ---
