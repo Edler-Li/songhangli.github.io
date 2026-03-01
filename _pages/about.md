@@ -13,7 +13,7 @@ My research interests lie in analog and digital IC design, and solid state mater
 
 Previously, I contributed to research projects in the laboratories of <br />
 • [Professor John Kenneth Krebs](https://www.fandm.edu/directory/ken-krebs.html), where I worked on Eu3+ Luminescence as a probe of local crystallinity, and <br />
-• [Professor Lin Zhang](https://engineering.buffalo.edu/bme/faculty/faculty_directory.host.html/content/shared/engineering/bme/profiles/faculty/zhang-lin.html), where I focused on hydrogel based piezoelectric sensors for wearable devices.<br />
+• [Professor Lin Zhang](https://sites.google.com/site/linzhangmaterials), where I focused on hydrogel based piezoelectric sensors for wearable devices.<br />
 
 
 **Education**<br />
