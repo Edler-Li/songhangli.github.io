@@ -17,7 +17,7 @@ covering film application techniques.
 
 # Wing Helper
 
-
+<img src="{{ site.baseurl }}/images/SAEWing.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
 # Laser Cutter
 
