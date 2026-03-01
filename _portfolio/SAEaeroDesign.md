@@ -2,6 +2,7 @@
 title: "SAE Aero Design Competition Preparation"
 excerpt: "A power and lift efficient, short-take-off-length 3.8 meters fixed wing plane for water delivery  <br/>"
 collection: portfolio
+date: 2024-05-01
 ---
 
 Poster presented at the Spring 2024 Student Research Fair, Franklin and Marshall College, PA. <br/>
