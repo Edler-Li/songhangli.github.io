@@ -4,6 +4,7 @@ excerpt: "Constructing Degree 4 Vertex Rigid-Foldable Thick Origami by Volume Tr
 collection: portfolio
 ---
 
+<b><a href="{{ site.url }}{{ site.baseurl }}/files/MAT372OrigamiProject.pdf" target="_blank" rel="noopener noreferrer">Final Project Article</a></b> <br/>
 
 # Introduction
 
@@ -65,8 +66,6 @@ By employing axially varying volume trimming, origami pattern under zero-thickne
 
 ## Acknowledgement:
 Jason Ku, Thomas Hull
-
-<b><a href="{{ site.url }}{{ site.baseurl }}/files/MAT372OrigamiProject.pdf" target="_blank" rel="noopener noreferrer">Final Project Report</a></b> <br/>
 
 <b><a href="{{ site.url }}{{ site.baseurl }}/files/MAT372OrigamiPresentation.pdf" target="_blank" rel="noopener noreferrer">Presentation Slides</a></b> <br/>
 
