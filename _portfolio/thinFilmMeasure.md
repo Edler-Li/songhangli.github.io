@@ -75,5 +75,7 @@ capacitance measurements.
   * \# of Pts = 9
 
 ## Capacitance
-
-<img src="{{ site.baseurl }}/images/PLZT3.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+* **C<sub>m</sub>** = 7.62 ± 0.3 pF
+* **C** = (ε<sub>A</sub>A) / d = (3.8 × 71.33 × 10<sup>-6</sup>) / (0.2 × 10<sup>-3</sup>)
+* **ε<sub>m</sub>** = (C<sub>m</sub>d) / A = (7.62 × 10<sup>-12</sup> × 0.2 × 10<sup>-3</sup>) / (11.33 × 10<sup>-6</sup>) = 0.021 × 10<sup>-9</sup> = 2.1 × 10<sup>-11</sup>
+* **K** = ε<sub>m</sub> / ε<sub>0</sub> = (2.1 × 10<sup>-11</sup>) / (8.854 × 10<sup>-12</sup>) = 2.3
