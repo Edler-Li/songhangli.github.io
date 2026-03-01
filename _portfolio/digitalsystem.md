@@ -1,8 +1,9 @@
 ---
-title: "ELEN 3802 Digital System Lab 1"
-excerpt: "Short description of ELEN 3802 Digital System Lab 1<br/>"
+title: "ELEN 3802 Digital System Lab"
+excerpt: "ELEN 3802 Digital System Lab Reports<br/>"
 collection: portfolio
 ---
+# Lab 1
 # Q1 Noise Margin
 
 <figure id="fig:placeholder" data-latex-placement="H">
