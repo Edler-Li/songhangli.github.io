@@ -66,6 +66,7 @@ By employing axially varying volume trimming, origami pattern under zero-thickne
 ## Acknowledgement:
 Jason Ku, Thomas Hull
 
-[**Presentation**](../files/MAT372OrigamiPresentation.pdf) <br/>
-[**Final Project**](../files/MAT372OrigamiProject.pdf) <br/>
+<b><a href="{{ site.url }}{{ site.baseurl }}/files/MAT372OrigamiProject.pdf" target="_blank" rel="noopener noreferrer">Final Project Report</a></b> <br/>
+
+<b><a href="{{ site.url }}{{ site.baseurl }}/files/MAT372OrigamiPresentation.pdf" target="_blank" rel="noopener noreferrer">Presentation Slides</a></b> <br/>
 
