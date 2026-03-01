@@ -2,6 +2,7 @@
 title: "Characterization of Ferroelectric Material (PLZT Thin Film)"
 excerpt: "Electrical and Optical Measurement of Ferroelectric Material (PLZT)  <br/>"
 collection: portfolio
+date: 2024-12-01
 ---
 
 Refraction index and dielectric constant of PLZT film based on silicon substrate
