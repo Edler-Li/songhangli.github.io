@@ -57,16 +57,14 @@ capacitance measurements.
 * **n of Cauchy Film** (@ 632.8 nm) = 2.15427
 
 ## Model
-
-Include Surface Roughness = ON | Roughness = **<u>25.06 nm</u>** (fit)
+* Include Surface Roughness = ON 
+* Roughness = 25.06 nm (fit)
 
 * **Layer #1 = Cauchy Film**
   * Thickness #1 = **96.73 nm** (fit)
-  * A = 2.094 (fit) | B = 0.02620 (fit) | C = -0.00080784 (fit)
-  * k Amplitude = <u>0.0000</u> | Exponent = <u>1.500</u>
+  * A = 2.094 (fit), B = 0.02620 (fit), C = -0.00080784 (fit)
+  * k Amplitude = <u>0.0000</u>, Exponent = <u>1.500</u>
   * Band Edge = 400.0 nm
-
-* **Global Parameters**
   * Substrate = `SI_JAW`
   * Angle Offset = <u>0.00</u>
 
@@ -74,7 +72,7 @@ Include Surface Roughness = ON | Roughness = **<u>25.06 nm</u>** (fit)
   * Include Substrate Backside Correction = OFF
   * Model Calculation = Include Thickness Non-uniformity
   * % Thickness Non-uniformity = 20.88 (fit)
-  * \# of Pts = 9auto;">
+  * \# of Pts = 9
 
 ## Capacitance
 
