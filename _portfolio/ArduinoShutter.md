@@ -35,3 +35,8 @@ The design prioritizes low-latency response, repeatability, and ease of integrat
 <img src="{{ site.baseurl }}/images/DC2.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
 <img src="{{ site.baseurl }}/images/DC3.jpeg" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+
+<img src="{{ site.baseurl }}/images/DC4.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+
+<img src="{{ site.baseurl }}/images/DC5.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
+
