@@ -42,62 +42,14 @@ capacitance measurements.
 # Acquiring thickness, refraction index
 
 ## Fit
-$\mathrm{MSE} = 6.901$
-
-Roughness $= 25.06 \pm 0.179 \,\mathrm{nm}$  
-
-Thickness #1 $= 96.73 \pm 0.069 \,\mathrm{nm}$  
-
-$$
-\begin{aligned}
-A &= 2.094 \pm 0.001754 \\
-B &= 0.02620 \pm 0.001044 \\
-C &= -0.00080784 \pm 0.00013435
-\end{aligned}
-$$
-
-% Thickness Non-uniformity $= 20.88 \pm 0.776$
-
-$n$ of Cauchy Film @ $632.8 \,\mathrm{nm} = 2.15427$
+<img src="{{ site.baseurl }}/images/PLZT1.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
 ## Model
 
 10052401_PLZT_on_Silicon
 
-Include Surface Roughness = ON  
-Roughness = $\underline{\mathbf{25.06 \,\mathrm{nm}}}$ (fit)
-
-- Layer #1 = Cauchy Film  
-$k$ Amplitude = $\underline{0.0000}$  
-Exponent = $\underline{1.500}$
-Band Edge = $400.0 \,\mathrm{nm}$  
-Substrate = SI_JAW  
-Angle Offset = $\underline{0.00}$  
-
-### MODEL Options
-
-Include Substrate Backside Correction = OFF  
-
-Model Calculation = Include Thickness Non-uniformity  
-  &emsp; % Thickness Non-uniformity = $20.88$ (fit)  
-  &emsp; # of Pts = 9
+<img src="{{ site.baseurl }}/images/PLZT2.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
 
 ## Capacitance
 
-$$
-\begin{aligned}
-C_m &= 7.62 \pm 0.3 \,\text{gF}
-
-C &= \frac{\varepsilon_A A}{d}
-   = \frac{3.8 \times 71.33 \times 10^{-6}}{0.2 \times 10^{-3}}
-
-\varepsilon_m &= \frac{C_m d}{A}
-= \frac{7.62 \times 10^{-12} \times 0.2 \times 10^{-3}}{11.33 \times 10^{-6}}
-= 0.021 \times 10^{-9}
-= 2.1 \times 10^{-11}
-
-K &= \frac{\varepsilon_m}{\varepsilon_0}
-= \frac{2.1 \times 10^{-11}}{8.854 \times 10^{-12}}
-= 2.3
-\end{aligned}
-$$
+<img src="{{ site.baseurl }}/images/PLZT3.png" alt="Description" style="width: 80%; display: block; margin: 0 auto;">
