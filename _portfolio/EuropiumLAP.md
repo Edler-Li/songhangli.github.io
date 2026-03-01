@@ -5,6 +5,7 @@ excerpt: "LaAlO3(LAP) doped with Europium is a phosphor
 widely used in lighting (LED) and display
 technologies and medical imaging <br/>"
 collection: portfolio
+date: 2025-01-01
 ---
 Poster presented at the Mid-Atlantic Section of the American Physical Society Meeting, Temple University, PA.<br/>
 
