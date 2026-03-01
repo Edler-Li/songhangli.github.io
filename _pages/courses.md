@@ -14,7 +14,7 @@ redirect_from:
 **Spring 2026**<br />
 • CSEE 3827 Fundamentals of Computer Systems (+Lab) <br />
 • ELEN 3331 Electronic Circuits (+Lab) <br />
-• ELEN 3082 Digital Systems [+Lab](https://edler-li.github.io/songhangli.github.io/portfolio/digitalsystem/) <br />
+• ELEN 3082 Digital Systems [(+Lab)](https://edler-li.github.io/songhangli.github.io/portfolio/digitalsystem/) <br />
 • ELEN 3701 Introduction to Communication Systems <br />
 • ELEN 4193 Modern Display Science and Technology <br />
 • PHED 1002 Swimming Lap <br />
