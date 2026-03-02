@@ -11,6 +11,14 @@ redirect_from:
 
 **Columbia University**<br />
 ---
+**Fall 2026** Planned <br />
+• ELEN 4312 Analog electronic circuits <br />
+• ELEN 4350y VLSI design laboratory<br />
+• ELEN 4361 Power electronics <br />
+• ELEN 3043 Solid state, microwave, and fiber optics lab <br />
+• ELEN 3399 EE practice <br />
+
+
 **Spring 2026**<br />
 • CSEE 3827 Fundamentals of Computer Systems <br />
 • ELEN 3331 Electronic Circuits (+Lab) <br />
