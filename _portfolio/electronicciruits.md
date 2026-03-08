@@ -1,6 +1,6 @@
 ---
 title: "ELEN 3803 Electronic Circuit Lab"
-excerpt: "Filter Design & AC Transient Analysis <br/>"
+excerpt: "Analog circuit lab <br/>"
 collection: portfolio
 date: 2024-02-01
 ---
