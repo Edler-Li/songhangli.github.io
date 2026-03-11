@@ -28,10 +28,10 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 
 **Honors and Awards**
 ---
-• F&M 238th commencement Alma Mater Singer, _F&M_ (2025) <br />
-• Kershner Scholar in Mathematics, _F&M_ (2025) <br />
-• The Nolt Music Award, _F&M_ (2025) <br />
 • Frank Durrell Enck Memorial Prize in Physics, _F&M_ (2025) <br />
+• Kershner Scholar in Mathematics, _F&M_ (2025) <br />
+• F&M 238th commencement Alma Mater Singer, _F&M_ (2025) <br />
+• The Nolt Music Award, _F&M_ (2025) <br />
 • Hackman Summer Scholar Award, _F&M_ (2024) <br />
 • Student Independent Research Grants, _F&M_ (2023) <br />
 • Kershner Scholar in Physics, _F&M_ (2023) <br />
