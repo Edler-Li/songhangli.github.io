@@ -60,7 +60,7 @@ redirect_from:
 **Spring 2024**<br />
 • PHY 491 Enigneering Design Lab 2 <br />
 • PHY 490 Independent Study-Physics <br />
-• PHY 226 Classical Mechanics(+computational lab) <br />
+• PHY 226 Classical Mechanics [(+Computational Lab)](https://edler-li.github.io/songhangli.github.io/portfolio/physics/) <br />
 • MAT 430 Advanced Linear Algebra <br />
 • ART 224 Chinese Brush and Ink Painting <br />
 
@@ -78,7 +78,7 @@ redirect_from:
 • MUS 285 Voice <br />
 
 **Fall 2022**<br />
-• PHY 223 Intro to Quantum Mechanics, Relativity <br />
+• PHY 223 Intro to Quantum Mechanics, Relativity [(+Lab)](https://edler-li.github.io/songhangli.github.io/portfolio/physics/)<br />
 • PHY 321 Experimental Physics: Electronics <br />
 • MAT 229 Linear Algebra and Differential Equations <br />
 • PHY 490 Independent Study-Physics <br />
