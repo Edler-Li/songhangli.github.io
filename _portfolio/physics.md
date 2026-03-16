@@ -2,7 +2,7 @@
 title: "Archived Lab Reports and Proofs"
 excerpt: "Lab reports and proofs collection"
 collection: portfolio
-date: 2025-08-01
+date: 2022-12-30
 ---
 **PHY442**
 
