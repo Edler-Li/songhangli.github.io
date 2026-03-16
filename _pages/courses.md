@@ -40,7 +40,7 @@ redirect_from:
 ---
 **Spring 2025**<br />
 • PHY 344 Quantum Mechanics <br />
-• PHY 422 Advanced Methods of Physics(projects) <br />
+• PHY 422 Advanced Methods of Physics [(+Project)](https://edler-li.github.io/songhangli.github.io/portfolio/physics/) <br />
 • MAT 372 Origami Math(project) <br />
 • ECO 103 Political Economics <br />
 • MUS 485 Voice Recital <br />
