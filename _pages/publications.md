@@ -15,7 +15,7 @@ redirect_from:
 Based Piezoelectric Devices for Biomedical Applications. _Micromachines, 14_(1). [doi:10.3390/mi14010167](https://www.mdpi.com/2072-666X/14/1/167) [**Download**](../files/micromachines-14-00167.pdf) <br /> 
 
 **[2]** J.K. Krebs, **Songhang Li**, Dragos Georgescu, and T. D. Pham. (2026). Eu3+
-Luminescence as a Probe of Local Crystallinity in Combustion-Synthesized LaAlO3. [doi:10.2139/ssrn.6102568](https://doi.org/10.1016/j.matlet.2026.140581)<br /> 
+Luminescence as a Probe of Local Crystallinity in Combustion-Synthesized LaAlO3. [doi:10.1016/j.matlet.2026.140581](https://doi.org/10.1016/j.matlet.2026.140581)<br /> 
 
 **Conference Presentations**<br />
 ---
