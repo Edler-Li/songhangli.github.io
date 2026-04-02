@@ -43,9 +43,9 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 ---
 **Hardware & Instrumentation**: Monochrometer SR430, Stanford Research System Multichannel Photon Counter, Oscilloscopes, Waveform Generators, M-2000 J.A. Woollam Spectrum ellipsometry. <br />
 
-**EDA Tools & Design Software**: LT SPICE, MATLAB, Arduino IDE <br />
+**EDA Tools & Design Software**: LT SPICE, MATLAB, Arduino IDE. <br />
 
-**Programming language**: Python, Java, MATLAB, Arduino, R. <br />
+**Programming language**: Python, Java, MATLAB, Arduino, R, MIPS. <br />
 
 **Software**: LT SPICE, SciDAVis, MATLAB, Mathematica, IntelliJ, Arduino IDE, CompleteEASE(optical modeling and ellipsometry data fitting). <br />
 
