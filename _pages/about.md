@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior at **Columbia University**, majoring in _Electrical Engineering_
+I am a junior at **Columbia University**, majoring in _Electrical Engineering_.
 <!--as part of the combined plan with **Franklin & Marshall College**, where I completed my B.A. in _Physics and Mathematics_, receiving the Frank Durrell Enck Memorial Prize in Physics.-->
 
 My research interests lie in analog and digital IC design, and solid state materials and devices.
@@ -43,18 +43,18 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 ---
 **Hardware & Instrumentation**: Monochrometer SR430, Stanford Research System Multichannel Photon Counter, Oscilloscopes, Waveform Generators, M-2000 J.A. Woollam Spectrum ellipsometry. <br />
 
-**EDA Tools & Design Software**: LT SPICE, MATLAB, Simulink, Arduino IDE <br />
+**EDA Tools & Design Software**: LT SPICE, MATLAB, Arduino IDE <br />
 
-**Programming language**: Python, Java, Mathematica, MATLAB, Arduino, R. <br />
+**Programming language**: Python, Java, MATLAB, Arduino, R. <br />
 
-**Software**: LT SPICE, SciDAVis, MATLAB, IntelliJ, Arduino IDE, CompleteEASE(optical modeling and ellipsometry data fitting). <br />
+**Software**: LT SPICE, SciDAVis, MATLAB, Mathematica, IntelliJ, Arduino IDE, CompleteEASE(optical modeling and ellipsometry data fitting). <br />
 
 **Design & Analysis Skills**: Analog and digital circuit simulation (AC/DC/transient analysis), circuit design and debugging, PCB layout and soldering, signal characterization, data analysis with Python/MATLAB/SciDavis, characterization of electronic components and semiconductor materials/thin films. <br />
 
-**Additional Technical Skills**: Laser cutting/fabrication, technical documentation (LaTeX, Endnote), design visualization and project planning (X-mind), image processing (Adobe Lightroom, Photoshop). <br />
+**Additional Technical Skills**: Laser cutting/fabrication, technical documentation (LaTeX, Endnote), design visualization and project planning (X-mind). <br />
 
 
 **More about me**
 ---
-I love singing (Alma Mater Singer at _2025 F&M Commencement_), photograhy (potrait, landscape, and darkroom), visiting national parks, and RC airplane.<br /> 
-As for sports, I enjoy playing tennis, swimming, and cycling.<br /> 
+I love singing (F&M 238th commencement Alma Mater Singer), photograhy (potrait, landscape, and darkroom), visiting national parks, and RC airplane.<br /> 
+I also enjoy playing tennis, swimming, and cycling.<br /> 
