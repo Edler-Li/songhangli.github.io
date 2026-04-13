@@ -11,10 +11,18 @@ redirect_from:
 
 **Columbia University**<br />
 ---
+
+**Spring 2027** Planned <br />
+• ELEN 4350 VLSI design laboratory <br />
+• ECBM 4090 Brain computer interfaces (BCI) laboratory<br />
+• CSEE 4840 Embedded Systems   <br />
+• ELEN 4361 Power electronics <br />
+• ELEN 3390 Electrical engineering senior design project <br />
+
 **Fall 2026** Planned <br />
 • ELEN 4312 Analog electronic circuits <br />
-• ELEN 4350 VLSI design laboratory<br />
-• ELEN 4361 Power electronics <br />
+• EECS 4321 Digital VLSI circuits<br />
+• CSEE 4823 Advanced Logic Design <br />
 • ELEN 4720 Machine Learning for Signals, Information and Data <br />
 • ELEN 3043 Solid state, microwave, and fiber optics lab <br />
 • ELEN 3399 EE practice <br />
