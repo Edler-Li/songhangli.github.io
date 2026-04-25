@@ -19,7 +19,7 @@ Previously, I contributed to research projects in the laboratories of <br />
 **Education**<br />
 ---
 **Columbia University – New York, NY**<br />
-Bachelor of Science, Electric Engineering (Expected Graduation: May 2027) <br />
+Bachelor of Science, Electrical Engineering (Expected Graduation: May 2027) <br />
 
 **Franklin & Marshall College – Lancaster, PA**<br />
 Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
