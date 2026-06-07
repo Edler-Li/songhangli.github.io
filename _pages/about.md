@@ -11,6 +11,8 @@ I am a junior at **Columbia University**, majoring in _Electrical Engineering_ a
 
 My research interests lie in analog and digital IC design, and solid state materials and devices.
 
+Currently, I am working on the piezoelectric sensor project with Peter Ballentine The Columbia Laboratory for Unconventional Electronics.
+
 Previously, I contributed to research projects in the laboratories of <br />
 • [Professor John Kenneth Krebs](https://www.fandm.edu/directory/ken-krebs.html), where I worked on Eu3+ Luminescence as a probe of local crystallinity, and <br />
 • [Professor Lin Zhang](https://sites.google.com/site/linzhangmaterials), where I focused on hydrogel based piezoelectric sensors for wearable devices.<br />
@@ -42,13 +44,13 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 ---
 **Hardware & Instrumentation**: Monochrometer SR430, Stanford Research System Multichannel Photon Counter, Oscilloscopes, Waveform Generators, M-2000 J.A. Woollam Spectrum ellipsometry. <br />
 
-**EDA Tools & Design Software**: LT SPICE, MATLAB, Arduino IDE. <br />
+**EDA Tools & Design Software**: LT SPICE, NG SPICE, Xschem, KLayout, MATLAB, Arduino IDE. <br />
 
 **Programming language**: Python, Java, MATLAB, Arduino, R, MIPS. <br />
 
 **Software**: LT SPICE, SciDAVis, MATLAB, Mathematica, IntelliJ, Arduino IDE, CompleteEASE(optical modeling and ellipsometry data fitting). <br />
 
-**Design & Analysis Skills**: Analog and digital circuit simulation (AC/DC/transient analysis), circuit design and debugging, PCB layout and soldering, signal characterization, data analysis with Python/MATLAB/SciDavis, characterization of electronic components and semiconductor materials/thin films. <br />
+**Design & Analysis Skills**: Analog integrated circuit design, AC/DC/transient analysis, PCB layout and soldering, signal characterization, data analysis with Python/MATLAB/SciDavis, characterization of electronic components and semiconductor materials/thin films. <br />
 
 **Additional Technical Skills**: Laser cutting/fabrication, technical documentation (LaTeX, Endnote), design visualization and project planning (X-mind). <br />
 
