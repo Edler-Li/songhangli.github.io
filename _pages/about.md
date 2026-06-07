@@ -11,7 +11,7 @@ I am a junior at **Columbia University**, majoring in _Electrical Engineering_ a
 
 My research interests lie in analog and digital IC design, and solid state materials and devices.
 
-Currently, I am working on the piezoelectric sensor project with Peter Ballentine The Columbia Laboratory for Unconventional Electronics.
+Currently, I am in The Columbia Laboratory for Unconventional Electronics ([CLUE](https://kymissis.columbia.edu)).
 
 Previously, I contributed to research projects in the laboratories of <br />
 • [Professor John Kenneth Krebs](https://www.fandm.edu/directory/ken-krebs.html), where I worked on Eu3+ Luminescence as a probe of local crystallinity, and <br />
