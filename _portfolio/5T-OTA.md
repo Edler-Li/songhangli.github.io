@@ -26,11 +26,13 @@ the chip (consider during design, but can follow design/layout submission).
 Students measure DC gain, GBW, slew rate, stability, PSRR, etc. for each
 amplifier, learning the trade-offs through hands-on experimentation
 
+## Schematic
 <img width="654" height="831" alt="image" src="https://github.com/user-attachments/assets/83773d0b-c978-4ad5-b898-aacc39b016dd" />
 
-
+## Transient
 <img width="1459" height="800" alt="5tOTA_tb_tran_SR_sch" src="https://github.com/user-attachments/assets/e7007055-aa13-4432-8116-18e185ad2f91" />
 
+## AC Open Loop
 <img width="1728" height="700" alt="programmable_5tota_tb_ac_open_loop_sch" src="https://github.com/user-attachments/assets/af34017a-9155-40c1-ae54-a3738d5ad3fb" />
 
 ## Top Level
