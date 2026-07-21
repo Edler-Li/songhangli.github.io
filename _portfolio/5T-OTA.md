@@ -13,7 +13,7 @@ date: 2026-01-01
 ## Four Topology MOSbius
 Eli Johnson - Folded Cascaded OTA
 
-Maxwell Drucker - Digital and Interface
+Maxwell Drucker - Digital Core and Interface
 
 Songhang Li - 5-Transistor OTA
 
@@ -37,4 +37,11 @@ amplifier, learning the trade-offs through hands-on experimentation
 
 ## Top Level
 <img width="1728" height="694" alt="5t_inverting_sin_3x_sch" src="https://github.com/user-attachments/assets/0dba2685-81f2-4301-8b47-5b65ed2f870c" />
+
+## More About Chipathon 2026 and our team
+
+https://github.com/sscs-ose/sscs-chipathon-2026/tree/main/schedule
+
+https://github.com/elijohnsonn/Four-Topology-MOSbius
+
 
