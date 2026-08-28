@@ -19,11 +19,12 @@ redirect_from:
 • ELEN 4361 Power electronics <br />
 • ELEN 3390 Electrical engineering senior design project <br />
 
-**Fall 2026** Planned <br />
+**Fall 2026** <br />
 • ELEN 4312 Analog electronic circuits <br />
 • EECS 4321 Digital VLSI circuits<br />
 • CSEE 4823 Advanced Logic Design <br />
-• ELEN 4720 Machine Learning for Signals, Information and Data <br />
+<!-- • ELEN 4720 Machine Learning for Signals, Information and Data <br /> -->
+• ELEN 4944 Principles of Device Microfabrication <br />
 • ELEN 3043 Solid state, microwave, and fiber optics lab <br />
 • ELEN 3399 EE practice <br />
 
