@@ -3,7 +3,9 @@ title: "The MOSbius Project"
 excerpt: "Chipathon 2026, from chip schematic to tapeout.
 <br/>"
 collection: portfolio
-date: 2026-01-01
+date: 2026-08-01
+
+teaser: /images/500x300.png
 ---
 
 ---
