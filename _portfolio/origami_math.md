@@ -2,6 +2,7 @@
 title: "Origami Mathematics"
 excerpt: "Constructing Degree 4 Vertex Rigid-Foldable Thick Origami by Volume Trimming<br/>"
 collection: portfolio
+teaser: /images/projects/origami/teaser.png
 date: 2023-01-01
 ---
 

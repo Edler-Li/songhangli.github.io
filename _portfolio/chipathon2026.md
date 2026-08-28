@@ -4,8 +4,10 @@ excerpt: "Chipathon 2026, from chip schematic to tapeout.
 <br/>"
 collection: portfolio
 date: 2026-08-01
+role: Analog IC Designer
+institution: IEEE SSCS Chipathon 2026 · GF180MCU
 
-teaser: /images/500x300.png
+teaser: /images/projects/chipathon2026/teaser.png
 ---
 
 ---
