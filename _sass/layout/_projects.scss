@@ -1,0 +1,65 @@
+.project-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #f2f3f3;
+}
+
+.project-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.project-title {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.project-role {
+  font-weight: 600;
+  margin-bottom: 0.15rem;
+}
+
+.project-institution {
+  font-size: 0.9em;
+  font-style: italic;
+  margin-bottom: 0.7rem;
+}
+
+.project-excerpt {
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+.project-excerpt p {
+  margin: 0;
+}
+
+.project-image {
+  flex: 0 0 180px;
+}
+
+.project-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
+@media (max-width: 600px) {
+  .project-row {
+    flex-direction: column;
+  }
+
+  .project-image {
+    flex: none;
+    width: 100%;
+  }
+
+  .project-image img {
+    max-width: 300px;
+  }
+}
