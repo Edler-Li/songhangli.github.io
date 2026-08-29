@@ -1,7 +1,6 @@
 ---
 title: "The MOSbius Project"
-excerpt: "Chipathon 2026, from chip schematic to tapeout.
-<br/>"
+excerpt: "From schematic to tapeout. Design and optimization of a five-transistor OTA, with emphasis on gain, bandwidth, offset, and gm/ID-based transistor sizing. <br/>"
 collection: portfolio
 date: 2026-08-01
 role: Analog IC Designer
