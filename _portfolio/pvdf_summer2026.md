@@ -41,7 +41,7 @@ The first test configuration focused on the **dynamic response**, using a charge
 
 The sample stack combines a PVDF film, patterned silver-paste electrodes, copper tape, conductive leads, and a rigid 0.8 mm PVC support. The electrode layout was iterated to support three sensing electrodes, a shared ground, and flexible-wire connections while keeping the active geometry reproducible between samples.
 
-![KLayout electrode-mask designs for PVDF samples](/images/projects/pvdf/electrode-mask-layout.png)
+![KLayout electrode-mask designs for PVDF samples]({{ site.baseurl }}/images/projects/pvdf/electrode-mask-layout.png)
 
 The electrode patterns were parameterized in **KLayout** using reusable cells and macros. The design includes 5 cm sample boundaries, lead routing, and multiple pad configurations for rapid fabrication trials. The same layout can be reused for matched LIFT and silver-paste samples so that electrode pattern and area remain controlled during comparison.
 
@@ -60,7 +60,7 @@ Two three-electrode silver-paste prototypes were produced during the initial fab
 
 The fixture was drafted in **Onshape** and prepared for 3D printing. Its purpose is to constrain the PVDF/PVC strip while converting controlled compression into measurable bending. Treating the support and PVDF layers as approximately linear over the test range allows the deformation to be related to the programmed compression depth.
 
-![Early fixture and deformation concept](/images/projects/pvdf/fixture-concept.jpg)
+![Early fixture and deformation concept]({{ site.baseurl }}/images/projects/pvdf/fixture-concept.jpg)
 
 An **ADMET eP2 GaugeSafe** test controller was configured to apply repeatable loading cycles. One initial program used:
 
@@ -78,7 +78,7 @@ The front-end resistor and capacitor values determine both gain and settling tim
 
 # Initial Result
 
-![Oscilloscope capture of repeated PVDF loading cycles](/images/projects/pvdf/oscilloscope-response.png)
+![Oscilloscope capture of repeated PVDF loading cycles]({{ site.baseurl }}/images/projects/pvdf/oscilloscope-response.png)
 
 The oscilloscope capture shows a repeatable response synchronized with successive mechanical loading cycles. The waveform includes sharp transition features followed by a slower recovery, consistent with a dynamic piezoelectric signal passing through a finite-time-constant measurement chain. This result verifies the complete path from mechanical actuation through the PVDF sample and analog front end to oscilloscope acquisition.
 
