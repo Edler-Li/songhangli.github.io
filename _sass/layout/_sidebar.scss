@@ -322,3 +322,15 @@
     }
   }
 }
+
+.sidebar__right.sticky {
+  @include breakpoint($large) {
+    position: -webkit-sticky;
+    position: sticky;
+    top: calc(#{$masthead-height} + 1rem);
+    align-self: flex-start;
+
+    max-height: calc(100vh - #{$masthead-height} - 2rem);
+    overflow-y: auto;
+  }
+}

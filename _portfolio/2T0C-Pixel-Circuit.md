@@ -5,7 +5,7 @@ collection: portfolio
 date: 2026-04-01
 role: Circuit and Layout Designer
 institution: Columbia University · ELEN 4193 Modern Display Science & Technology
-teaser: /images/projects/2t0c-pixel-circuit/PixelArray.png
+teaser: /images/projects/2t0c-pixel-circuit/pixel_array.png
 ---
 
 # Project Overview
@@ -30,17 +30,17 @@ The pixel measures **440 × 440 µm**, corresponding to approximately **57.7 PPI
 
 The SCAN signal enables $T_S$, allowing the DATA line to program the gate of $T_D$. After SCAN returns low, the stored gate voltage keeps $T_D$ conducting and sustains microLED emission until the next write or reset operation.
 
-![LTspice schematic of the 2T0C pixel](/images/projects/2t0c-pixel-circuit/spiceSchematic.png)
+![LTspice schematic of the 2T0C pixel](/images/projects/2t0c-pixel-circuit/spice_schematic.png)
 
 The extracted line resistances and overlap capacitances were included in the simulation model rather than treating the interconnect as ideal.
 
 # Physical Layout
 
-![Physical layout of one 2T0C pixel](/images/projects/2t0c-pixel-circuit/PixelLayout.png)
+![Physical layout of one 2T0C pixel](/images/projects/2t0c-pixel-circuit/pixel_layout.png)
 
 The single-pixel layout integrates the two TFTs, microLED region, and shared SCAN, DATA, and $V_{DD}$ routing inside a repeatable 440 µm pitch.
 
-![Tiled array of 2T0C pixels](/images/projects/2t0c-pixel-circuit/PixelArray.png)
+![Tiled array of 2T0C pixels](/images/projects/2t0c-pixel-circuit/pixel_array.png)
 
 Tiling the cell verifies that the horizontal and vertical interconnects remain continuous across an array and provides the geometry used for panel-level RC estimates.
 
@@ -67,7 +67,7 @@ At the pixel level, the resulting time constants are only **3.55 ps** for SCAN a
 
 # LTspice Verification
 
-![Set, hold, and reset simulation waveforms](/images/projects/2t0c-pixel-circuit/spiceSimulation.png)
+![Set, hold, and reset simulation waveforms](/images/projects/2t0c-pixel-circuit/spice_simulation.png)
 
 The transient simulation demonstrates the three operating states:
 
@@ -75,7 +75,7 @@ The transient simulation demonstrates the three operating states:
 2. **Hold / emission:** SCAN goes low while the internal node retains its voltage, maintaining approximately **4.1 µA** of LED current.
 3. **Reset:** SCAN is asserted while DATA is low, discharging the internal node and turning the pixel off.
 
-![Simulated microLED power during the emission interval](/images/projects/2t0c-pixel-circuit/spiceSimulationPower.png)
+![Simulated microLED power during the emission interval](/images/projects/2t0c-pixel-circuit/spice_simulation_power.png)
 
 The simulated microLED consumes approximately **12 µW** during emission. Assuming a Lambertian emitter and 683 lm/W luminous efficacy, this corresponds to an estimated peak luminance of approximately **6,738 cd/m²** over the pixel area.
 

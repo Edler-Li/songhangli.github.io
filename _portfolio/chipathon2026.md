@@ -5,13 +5,26 @@ collection: portfolio
 date: 2026-08-01
 role: Analog IC Designer
 institution: IEEE SSCS Chipathon 2026 · GF180MCU
+read_time: true
+authors:
+  - Eli Johnson
+  - Maxwell Drucker
+  - Songhang Li
+  - Manuel Garcia
 
 teaser: /images/projects/chipathon2026/teaser.png
 ---
 
+
+{% if page.authors %}
+<div class="page__meta" style="margin: 0 0 1rem 0;">
+  <strong>Authors:</strong> {{ page.authors | join: ", " }}
+</div>
+{% endif %}
+
+{% include toc %}
+
 ---
-
-
 # Project Information
 ## Four Topology MOSbius
 
