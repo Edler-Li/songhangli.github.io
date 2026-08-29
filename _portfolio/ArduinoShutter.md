@@ -7,7 +7,7 @@ collection: portfolio
 
 date: 2025-05-01
 ---
-
+{% include toc %}
 # Design goal
 Developing a controller using an Arduino and H-bridge module to precisely control an excitation laser mechanical shutter, enabling photon counting of early-state decay.
 

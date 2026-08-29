@@ -7,6 +7,7 @@ role: Undergraduate Researcher
 institution: Columbia University · Kymissis CLUE Lab
 teaser: /images/projects/pvdf/teaser.png
 ---
+{% include toc %}
 
 # Project Overview
 

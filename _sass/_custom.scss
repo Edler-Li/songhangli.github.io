@@ -1,49 +1,338 @@
-/* Fixed right-side table of contents */
+/* ============================================================
+   Custom right-side TOC sidebar
+   ============================================================ */
 
-@media (min-width: 1300px) {
+/* Allow content to use full width */
+.page__content {
+  max-width: 100%;
+}
+
+/* ============================================================
+   TOC positioning + geometry (theme-independent)
+   ============================================================ */
+
+.toc {
+  position: fixed;
+  top: 6rem;
+
+  /* Anchor TOC next to centered content column */
+  left: calc(50% + 24rem); /* tweak if needed */
+
+  width: 14rem;
+  max-height: calc(100vh - 8rem);
+  overflow-y: auto;
+
+  font-size: 0.85rem;
+  border-radius: 8px;
+  padding: 0.75rem;
+  box-sizing: border-box;
+
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+   /* TOC entries only */
+   .sidebar__right .toc .toc__menu a {
+   font-size: 0.6rem;
+   line-height: 1.35;
+   }
+
+   /* “ON THIS PAGE” header only */
+   .sidebar__right .toc .nav__title {
+   font-size: 0.75rem;
+   }
+
+   /* All TOC links inherit the overall size */
+   .toc .toc__menu a {
+   font-size: inherit;
+   }
+
+   /* 
+   Nested TOC entries: indent and weight */
+   /* Top-level entries */
+   .toc .toc__menu > li > a {
+   padding-left: 1rem;
+   font-weight: 700;
+   }
+
+   /* Second-level entries */
+   .toc .toc__menu > li > ul > li > a {
+   padding-left: 2rem;
+   font-weight: 400;
+   }
+
+   /* Third-level entries */
+   .toc .toc__menu > li > ul > li > ul > li > a {
+   padding-left: 3rem;
+   font-weight: 300;
+   }
+
+   /* Fourth-level entries */
+   .toc .toc__menu > li > ul > li > ul > li > ul > li > a {
+   padding-left: 4rem;
+   font-weight: 200;
+   }
+   /* End  Nested TOC entries: indent and weight */
+
+/* ============================================================
+   TOC — light mode (default)
+   ============================================================ */
+
+.toc {
+  background: #ffffff;
+  color: #111;
+  border: 1px solid #ddd;
+}
+
+.toc a {
+  color: #222;
+  text-decoration: none;
+}
+
+.toc a:hover {
+  color: #000;
+}
+
+/* separators / dividers */
+.toc li,
+.toc .toc__menu li {
+  border-color: #e6e6e6;
+}
+
+/* "On this page" header bar */
+.toc .nav__title,
+.toc .toc__title {
+  background: #f3f3f3;
+  color: #111;
+  border-radius: 6px;
+}
+
+/* Inline code / badges — KEEP ORIGINAL SIZE */
+.toc code,
+.toc kbd {
+  font-size: inherit;
+  line-height: inherit;
+  padding: 0;                 /* critical: no size inflation */
+  border-radius: 3px;
+  vertical-align: baseline;
+  background: #f2f2f2;
+  color: #111;
+  border: 1px solid #ddd;
+}
+
+/* ============================================================
+   TOC menu typography and spacing
+   ============================================================ */
+
+/* “ON THIS PAGE” header */
+.toc .nav__title,
+.toc .toc__title {
+  margin: 0 0 0.25rem;
+  padding: 0.75rem 1rem;
+
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* Reset list formatting */
+.toc .toc__menu,
+.toc .toc__menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Individual rows */
+.toc .toc__menu li {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+/* TOC links */
+.toc .toc__menu a {
+  display: block;
+  padding: 0.75rem 1rem;
+  border-bottom: 0;
+
+  color: #222;
+  font-size: 0.72rem;
+  font-weight: 500;
+  line-height: 1.35;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+/* Main section headings */
+.toc .toc__menu > li > a {
+  font-weight: 700;
+}
+
+/* Nested headings */
+.toc .toc__menu ul a {
+  padding-left: 1.75rem;
+  font-weight: 500;
+}
+
+/* Deeper headings */
+.toc .toc__menu ul ul a {
+  padding-left: 2.5rem;
+}
+
+/* Hover */
+.toc .toc__menu a:hover {
+  color: #000;
+  background: #f7f7f7;
+}
+
+/* Remove final divider */
+.toc .toc__menu li:last-child {
+  border-bottom: 0;
+}
+
+
+/* ============================================================
+   TOC — dark mode (toggle-controlled)
+   ============================================================ */
+
+html[data-theme="dark"] .toc {
+  background: #2c2c2c;
+  color: #eaeaea;
+  border: 1px solid #444;
+}
+
+html[data-theme="dark"] .toc a {
+  color: #d6d6d6;
+}
+
+html[data-theme="dark"] .toc a:hover {
+  color: #ffffff;
+}
+
+/* separators / dividers */
+html[data-theme="dark"] .toc li,
+html[data-theme="dark"] .toc .toc__menu li {
+  border-color: #444;
+}
+
+/* "On this page" header bar */
+html[data-theme="dark"] .toc .nav__title,
+html[data-theme="dark"] .toc .toc__title {
+  background: #3a3a3a;
+  color: #f0f0f0;
+}
+
+/* Inline code / badges — COLOR ONLY, same size as light */
+html[data-theme="dark"] .toc code,
+html[data-theme="dark"] .toc kbd {
+  background: #1f1f1f;
+  color: #f0f0f0;
+  border-color: #555;
+  padding: 0 0.25em; /* exactly matches light theme behavior */
+}
+
+/* Active section highlight */
+html[data-theme="dark"] .toc a.active,
+html[data-theme="dark"] .toc .active > a {
+  color: #ffffff;
+  font-weight: 650;
+}
+
+html[data-theme="dark"] .toc .toc__menu li {
+  border-bottom-color: #444;
+}
+
+html[data-theme="dark"] .toc .toc__menu a:hover {
+  background: #353535;
+}
+
+/* ============================================================
+   Responsive: hide TOC on small screens
+   ============================================================ */
+
+@media (max-width: 1200px) {
   .toc {
-    position: fixed;
-    top: 6rem;
-
-    /* Position beside the centered article */
-    left: calc(50% + 24rem);
-
-    width: 16rem;
-    max-height: calc(100vh - 8rem);
-    overflow-y: auto;
-
-    padding: 0.75rem;
-    font-size: 0.85rem;
-    border-radius: 8px;
-
-    background: var(--global-bg-color);
-    color: var(--global-text-color);
-    border: 1px solid var(--global-border-color);
-    box-shadow: $box-shadow;
-    z-index: 20;
-  }
-
-  .toc .nav__title {
-    padding: 0.75rem;
-    margin: 0 0 0.5rem;
-    background: var(--global-toc-bg-color);
-    color: var(--global-text-color);
-    border-radius: 6px;
-  }
-
-  .toc a {
-    color: var(--global-text-color);
-    text-decoration: none;
-  }
-
-  .toc a:hover {
-    color: var(--global-link-color-hover);
+    display: none;
   }
 }
 
-/* Avoid covering the article on narrower screens */
-@media (max-width: 1299px) {
-  .toc {
-    display: none;
+
+/* Base Container for the Row */
+.responsive-row {
+  display: flex;
+  flex-direction: column; /* Mobile first: stack them up and down */
+  gap: 20px;
+  margin-bottom: 2rem;
+  align-items: center;
+}
+
+/* Ensure images/figures behave nicely inside their wrapper */
+.row-media {
+  width: 100%;
+  max-width: 300px; /* Limits max size on mobile */
+}
+
+.row-media img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px; /* Optional styling */
+}
+
+.row-media figure {
+  margin: 0;
+  width: 100%;
+}
+
+/* Light mode default caption styling */
+.row-media figcaption {
+  font-size: 0.85em;
+  color: #666; /* Mild gray for bright screens */
+  text-align: center;
+  margin-top: 5px;
+}
+
+/* 🌙 Dark mode adaptation */
+html[data-theme="dark"] .row-media figcaption {
+  color: #b0b0b0; /* Soft, readable light gray for dark screens */
+}
+
+.row-text {
+  width: 100%;
+  flex: 1;
+}
+
+/* 🖥️ Desktop Styling (Screens wider than 768px) */
+@media (min-width: 768px) {
+  .responsive-row {
+    flex-direction: row; /* Side by side on desktop */
+    align-items: stretch; /* This forces the text block and image block to have the SAME height */
+  }
+
+  /* For rows where you want the image on the left on desktop, 
+     but still want it to look normal on mobile */
+  .responsive-row.reverse-on-desktop {
+    flex-direction: row-reverse;
+  }
+
+  .row-text {
+    /* Gives text breathing room while letting image shrink/grow dynamically */
+    flex: 2; 
+  }
+
+  .row-media {
+	flex: var(--image-flex, 1); 
+    max-width: var(--image-max-width, 250px);
+    display: flex;
+    align-items: center; /* Centers the image vertically if text is much longer */
+  }
+  
+  .row-media img {
+    /* If you want the image to completely fill the height to match the text perfectly */
+    object-fit: cover; 
+    height: 100%;
   }
 }
