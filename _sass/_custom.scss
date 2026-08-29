@@ -1,0 +1,49 @@
+/* Fixed right-side table of contents */
+
+@media (min-width: 1300px) {
+  .toc {
+    position: fixed;
+    top: 6rem;
+
+    /* Position beside the centered article */
+    left: calc(50% + 24rem);
+
+    width: 16rem;
+    max-height: calc(100vh - 8rem);
+    overflow-y: auto;
+
+    padding: 0.75rem;
+    font-size: 0.85rem;
+    border-radius: 8px;
+
+    background: var(--global-bg-color);
+    color: var(--global-text-color);
+    border: 1px solid var(--global-border-color);
+    box-shadow: $box-shadow;
+    z-index: 20;
+  }
+
+  .toc .nav__title {
+    padding: 0.75rem;
+    margin: 0 0 0.5rem;
+    background: var(--global-toc-bg-color);
+    color: var(--global-text-color);
+    border-radius: 6px;
+  }
+
+  .toc a {
+    color: var(--global-text-color);
+    text-decoration: none;
+  }
+
+  .toc a:hover {
+    color: var(--global-link-color-hover);
+  }
+}
+
+/* Avoid covering the article on narrower screens */
+@media (max-width: 1299px) {
+  .toc {
+    display: none;
+  }
+}
