@@ -7,6 +7,14 @@ role: Circuit and Layout Designer
 institution: Columbia University · ELEN 4193 Modern Display Science & Technology
 teaser: /images/projects/2t0c-pixel-circuit/pixel_array.png
 ---
+{% if page.authors %}
+<div class="page__meta" style="margin: 0 0 1rem 0;">
+  <strong>Authors:</strong> {{ page.authors | join: ", " }}
+</div>
+{% endif %}
+
+{% include toc %}
+
 
 # Project Overview
 
