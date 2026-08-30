@@ -3,7 +3,7 @@ title: "ELEN 3201 Circuit Analysis Lab"
 excerpt: "Filter Design & AC Transient Analysis <br/>"
 collection: portfolio
 date: 2025-09-01
-role: Undergraduate
+# role: Undergraduate
 institution: Columbia University · ELEN 3201 Circuit Analysis & Laboratory
 read_time: true
 authors: Songhang Li

@@ -1,6 +1,6 @@
 ---
 title: "The MOSbius Project - Chips Design and Tape Out"
-excerpt: "From schematic to tapeout. Design and optimization of a five-transistor OTA, with emphasis on gain, bandwidth, offset, and gm/ID-based transistor sizing. <br/>"
+excerpt: "From schematic to tapeout. Design and optimization of a five-transistor OTA, with emphasis on gain, bandwidth, offset, and gm/ID-based transistor sizing. <br/> Article accepted by _MIT URTC_.  _IEEE Xplore_ submission in prep. <br/>"
 collection: portfolio
 date: 2026-08-01
 role: Analog IC Designer - 5T OTA

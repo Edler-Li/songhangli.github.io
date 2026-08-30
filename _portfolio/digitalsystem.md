@@ -2,8 +2,15 @@
 title: "ELEN 3802 Digital System Lab"
 excerpt: "ELEN 3802 Digital System Lab Reports<br/>"
 collection: portfolio
-date: 2024-01-01
+date: 2025-01-01
+# role: Undergraduate
+institution: Columbia University · ELEN 3802 Digital System Laboratory
+read_time: true
+authors: Songhang Li
+teaser: /images/projects/circuit_analysis/op-amp.jpg
 ---
+
+
 # Lab 1
 # Q1 Noise Margin
 
