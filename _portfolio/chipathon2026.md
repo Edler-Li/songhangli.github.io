@@ -3,7 +3,7 @@ title: "The MOSbius Project - Chips Design and Tape Out"
 excerpt: "From schematic to tapeout. Design and optimization of a five-transistor OTA, with emphasis on gain, bandwidth, offset, and gm/ID-based transistor sizing. <br/>"
 collection: portfolio
 date: 2026-08-01
-role: Analog IC Designer
+role: Analog IC Designer - 5T OTA
 institution: IEEE SSCS Chipathon 2026 · GF180MCU
 read_time: true
 authors:
@@ -11,10 +11,8 @@ authors:
   - Maxwell Drucker
   - Songhang Li
   - Manuel Garcia
-
 teaser: /images/projects/chipathon2026/teaser.png
 ---
-
 
 {% if page.authors %}
 <div class="page__meta" style="margin: 0 0 1rem 0;">
@@ -24,56 +22,57 @@ teaser: /images/projects/chipathon2026/teaser.png
 
 {% include toc %}
 
----
 # Project Overview
-To design and fabricate a chip containing several of the most common
-amplifier topologies, all with accessible pins, so that a student can wire up, test,
-characterize, and compare each amplifier.
-Students measure DC gain, GBW, slew rate, stability, PSRR, etc. for each
-amplifier, learning the trade-offs through hands-on experimentation
 
-# Chip Infomation
+**Four-Topology MOSbius** is an open-source, programmable analog test chip developed for the **IEEE SSCS Chipathon 2026**. It brings four common amplifier topologies onto one die: a folded-cascode OTA, five-transistor (5T) OTA, telescopic-cascode OTA, and common-source stage, so students can measure and compare their behavior in real silicon under the same loading conditions.
 
-## Pins
-**Total Required Pins**: 17 -- Power 1, Analog 12 (8 Inputs, 4 Outputs), Digital 4 (3 Inputs, 1 Output) -- We have a 'VSS' Pin in top-level, but this is just ground, which is taken care of in the pad ring. So, it is not listed here.
+# Chip Information
+![Top-level interface of the Four-Topology MOSbius chip]({{ site.baseurl }}/images/projects/chipathon2026/top.png)
 
-*------insert top.png here
+**Pins**: 17 -- Power 1, Analog 12 (8 Inputs, 4 Outputs), Digital 4 (3 Inputs, 1 Output) -- We have a 'VSS' Pin in top-level, but this is just ground, which is taken care of in the pad ring. So, it is not listed here.
 
-## Area
 **Area**: 500um x 400um
 
 ## Programmable Transistor
 
-*------insert programmable_pfet.png here
+Each amplifier is built from programmable transistor cells. A base device remains active while binary-controlled parallel branches change the effective width, producing selectable sizing from the base configuration through 4×. Transmission gates route the complementary scan-chain control signals to the device branches.
 
-# Schematics
+![Programmable PFET cell with selectable parallel device branches]({{ site.baseurl }}/images/projects/chipathon2026/programmable_pfet.png)
+
+# Schematics 
+
+![Programmable five-transistor OTA schematic]({{ site.baseurl }}/images/projects/chipathon2026/programmable_5tOTA2.png)
 
 # Layout
 
-*------insert layout.png here
+![Layout of the programmable five-transistor OTA]({{ site.baseurl }}/images/projects/chipathon2026/5t_layout.png)
 
-## DRC
+## DRC and LVS
 
-## LVS
+- The programmable 5T OTA layout is **DRC clean**.
+- Schematic and extracted layout is **LVS clean**.
 
 ## PEX
 
-## ESD 
+**Parasitic Extraction**
+
+Post-layout netlists were used in 5T OTA inverting-amplifier and step-response testbenches across multiple sizing configurations. This stage checks whether interconnect resistance and capacitance preserve the intended gain and transient behavior after integration.
+
+## ESD
+
+The analog pins include secondary I/O protection at the chip level, while the pad ring provides the primary interface to power, ground, analog signals, and digital programming controls. Pin mapping and protection connectivity were included in the top-level verification flow.
 
 # Tape Out in Progress
 
-## Manufacture
+The project is in **final verification and tapeout preparation** through the IEEE SSCS Chipathon 2026 MOSbius track. The design targets fabrication in the **GlobalFoundries GF180MCU 180 nm process**. Silicon characterization will follow manufacturing, with measurements focused on gain, bandwidth, stability, slew rate, power, output range, and variation across programmable sizing modes.
 
-### Global Foundaries GF180MCU
+![Top-level interface of the Four-Topology MOSbius chip]({{ site.baseurl }}/images/projects/chipathon2026/layout.png)
 
-# Simulations
 
-# Applications
+# Application Example: Inverting Amplifier
 
-## Inverting Op Amp
-*------insert inverting.png here
+![Top-level inverting-amplifier simulation using the 5T OTA]({{ site.baseurl }}/images/projects/chipathon2026/inverting.png)
 
-## Transient Measurement
 
 # Team
 
@@ -85,26 +84,10 @@ amplifier, learning the trade-offs through hands-on experimentation
 
 - Songhang Li — Owner of 5-Transistor Design and Layout, Start Up Circuit Design
 
-## Goal: 
+# More About Project
 
+- [Four-Topology MOSbius source repository](https://github.com/elijohnsonn/Four-Topology-MOSbius)
+- [IEEE SSCS Chipathon 2026 schedule and track information](https://github.com/sscs-ose/sscs-chipathon-2026/tree/main/schedule)
+- [MOSbius educational chip platform](https://mosbius.org/0_front_matter/intro.html)
 
-## Schematic
-<img width="654" height="831" alt="image" src="https://github.com/user-attachments/assets/83773d0b-c978-4ad5-b898-aacc39b016dd" />
-
-## Transient
-<img width="1459" height="800" alt="5tOTA_tb_tran_SR_sch" src="https://github.com/user-attachments/assets/e7007055-aa13-4432-8116-18e185ad2f91" />
-
-## AC Open Loop
-<img width="1728" height="700" alt="programmable_5tota_tb_ac_open_loop_sch" src="https://github.com/user-attachments/assets/af34017a-9155-40c1-ae54-a3738d5ad3fb" />
-
-## Top Level
-<img width="1728" height="694" alt="5t_inverting_sin_3x_sch" src="https://github.com/user-attachments/assets/0dba2685-81f2-4301-8b47-5b65ed2f870c" />
-
-## More About Chipathon 2026 and our team
-
-https://github.com/sscs-ose/sscs-chipathon-2026/tree/main/schedule
-
-https://github.com/elijohnsonn/Four-Topology-MOSbius
-
-https://mosbius.org/0_front_matter/intro.html
 

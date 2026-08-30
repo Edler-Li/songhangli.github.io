@@ -63,7 +63,7 @@ The fixture was drafted in **Onshape** and prepared for 3D printing. Its purpose
 
 ![Early fixture and deformation concept]({{ site.baseurl }}/images/projects/pvdf/fixture-concept.jpg)
 
-An **ADMET eP2 GaugeSafe** test controller was configured to apply repeatable loading cycles. One initial program used:
+An **ADMET eP GaugeSafe** test controller was configured to apply repeatable loading cycles. One initial program used:
 
 - Segment A position: **7 mm** at speed **300**
 - Segment B position: **1 mm** at speed **300**
