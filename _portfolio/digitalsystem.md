@@ -7,7 +7,7 @@ date: 2025-01-01
 institution: Columbia University · ELEN 3802 Digital System Laboratory
 read_time: true
 authors: Songhang Li
-teaser: /images/projects/circuit_analysis/op-amp.jpg
+# teaser: /images/projects/circuit_analysis/op-amp.jpg
 ---
 
 
