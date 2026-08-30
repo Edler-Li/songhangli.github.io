@@ -6,6 +6,9 @@ Developed a circuit solution using Arduino to precisely control excitation laser
 collection: portfolio
 
 date: 2025-05-01
+role: Undergraduate Researcher
+institution: Franklin & Marshall College · Ken Krebs Lab
+teaser: /images/projects/arduino_shutter/arduino_logo.jpg
 ---
 {% include toc %}
 # Design goal

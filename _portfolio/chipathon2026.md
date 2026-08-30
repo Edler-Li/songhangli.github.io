@@ -26,6 +26,11 @@ teaser: /images/projects/chipathon2026/teaser.png
 
 **Four-Topology MOSbius** is an open-source, programmable analog test chip developed for the **IEEE SSCS Chipathon 2026**. It brings four common amplifier topologies onto one die: a folded-cascode OTA, five-transistor (5T) OTA, telescopic-cascode OTA, and common-source stage, so students can measure and compare their behavior in real silicon under the same loading conditions.
 
+The chip is designed for hands-on exploration of **DC gain, gain-bandwidth product, phase margin, slew rate, output swing**.
+
+All design work used an open-source flow: **Xschem** for schematic capture, **NGspice** for simulation, **KLayout** for physical design and verification, and the **GlobalFoundries GF180MCU** open-source PDK. The amplifier designs followed a gm/ID methodology and shared a system-level target of approximately **1 MHz GBW while driving a 120 pF off-chip load**.
+
+
 # Chip Information
 ![Top-level interface of the Four-Topology MOSbius chip]({{ site.baseurl }}/images/projects/chipathon2026/top.png)
 
