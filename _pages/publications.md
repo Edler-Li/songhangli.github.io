@@ -21,13 +21,16 @@ Based Piezoelectric Devices for Biomedical Applications. _Micromachines, 14_(1).
 
 **Conference Articles**<br />
 ---
-**[1]** Eli Johnson, Maxwell Drucker, Manuel Garcia, **Songhang Li**. (2026). A Programmable Four-Topology Amplifier Chip for Analog Education. _MIT URTC_. (Under Review)<br />
+**[1]** Eli Johnson, Maxwell Drucker, Manuel Garcia, **Songhang Li**. (2026). A Programmable Four-Topology Amplifier Chip for Analog Education. _MIT URTC_.<br />
 
 
 **Conference Presentations**<br />
 ---
-**[1]** **Songhang Li** & J.K. Krebs. (2024, Nov 15). _Rate equation model for fluorescence and phosphorescence in Eu3+ doped LaAlO3_. [Poster](../files/SonghangLi_Poster1.pdf) presented at the Mid-Atlantic Section of the American Physical Society Meeting, Temple University, PA. [Abstract](https://meetings.aps.org/Meeting/MAS24/Session/F01.18) <br /> 
 
-**[2]** **Songhang Li** & J.K. Krebs. (2024, Oct 18). _Photon Counting Experiment of Persistent Luminescence in Eu:LAP_. Poster presented at the Student Research Fair, Franklin and Marshall College, PA. <br />
+**[1]** Eli Johnson, Maxwell Drucker, Manuel Garcia, **Songhang Li**. (2026, Oct 10). _A Programmable Four-Topology Amplifier Chip for Analog Education_. _MIT URTC_, Massachusetts Institute of Technology, MA.<br />
 
-**[3]** **Songhang Li** & J.K. Krebs. (2024, Apr 20). _Design, construction, testing, and improving: An introduction to Engineering Design Competitions_. Poster presented at the Student Research Fair, Franklin and Marshall College, PA. <br />
+**[2]** **Songhang Li** & J.K. Krebs. (2024, Nov 15). _Rate equation model for fluorescence and phosphorescence in Eu3+ doped LaAlO3_. [Poster](../files/SonghangLi_Poster1.pdf) presented at the Mid-Atlantic Section of the American Physical Society Meeting, Temple University, PA. [Abstract](https://meetings.aps.org/Meeting/MAS24/Session/F01.18) <br /> 
+
+**[3]** **Songhang Li** & J.K. Krebs. (2024, Oct 18). _Photon Counting Experiment of Persistent Luminescence in Eu:LAP_. Poster presented at the Student Research Fair, Franklin and Marshall College, PA. <br />
+
+**[4]** **Songhang Li** & J.K. Krebs. (2024, Apr 20). _Design, construction, testing, and improving: An introduction to Engineering Design Competitions_. Poster presented at the Student Research Fair, Franklin and Marshall College, PA. <br />
