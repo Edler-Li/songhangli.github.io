@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at **Columbia University**, majoring in _Electrical Engineering_ as part of the combined plan with **Franklin & Marshall College**, where I completed my B.A. in _Physics and Mathematics_, receiving the Frank Durrell Enck Memorial Prize in Physics.
+Hi! I'm a senior at **Columbia University**, majoring in _Electrical Engineering_.
+I completed my B.A. in _Physics and Mathematics_ at **Franklin & Marshall College**, receiving the Frank Durrell Enck Memorial Prize in Physics.
 
 My research interests lie in analog and digital IC design, and solid state materials and devices.
 
-Currently, I am in The Columbia Laboratory for Unconventional Electronics ([CLUE](https://kymissis.columbia.edu)).
+Currently, I am working on the thin film material in The Columbia Laboratory for Unconventional Electronics ([CLUE](https://kymissis.columbia.edu)).
 
 Previously, I contributed to research projects in the laboratories of <br />
 • [Professor John Kenneth Krebs](https://www.fandm.edu/directory/ken-krebs.html), where I worked on Eu3+ Luminescence as a probe of local crystallinity, and <br />
@@ -21,6 +22,7 @@ Previously, I contributed to research projects in the laboratories of <br />
 **Education**<br />
 ---
 **Columbia University – New York, NY**<br />
+Master of Science,   Electrical Engineering (Expected Graduation: May 2028) <br />
 Bachelor of Science, Electrical Engineering (Expected Graduation: May 2027) <br />
 
 **Franklin & Marshall College – Lancaster, PA**<br />
