@@ -34,7 +34,7 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 ---
 • Frank Durrell Enck Memorial Prize in Physics, _F&M_ (2025) <br />
 • Kershner Scholar in Mathematics, _F&M_ (2025) <br />
-• F&M 238th commencement Alma Mater Singer, _F&M_ (2025) <br />
+• F&M [238th commencement Alma Mater Singer](https://www.youtube.com/live/EVJXAYNtoso?t=11040&si=2SOI-kF8dMb7IWL5), _F&M_ (2025) <br />
 • The Nolt Music Award, _F&M_ (2025) <br />
 • Hackman Summer Scholar Award, _F&M_ (2024) <br />
 • Student Independent Research Grants, _F&M_ (2023) <br />
@@ -59,5 +59,6 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 
 **More about me**
 ---
-I love singing (F&M 238th commencement Alma Mater Singer), photography (potrait, landscape, and darkroom), visiting national parks, and RC airplane.<br /> 
+I love singing ([F&M 238th commencement Alma Mater Singer](https://www.youtube.com/live/EVJXAYNtoso?t=11040&si=2SOI-kF8dMb7IWL5)), photography (potrait, landscape, and darkroom), visiting national parks, and RC airplane.<br /> 
 I also enjoy playing tennis, swimming, and cycling.<br /> 
+

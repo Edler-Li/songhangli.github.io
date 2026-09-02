@@ -1,5 +1,5 @@
 ---
-title: "The MOSbius Project - Chips Design and Tape Out"
+title: "The MOSbius Project - Chip Design and Tape Out"
 excerpt: "From schematic to tapeout. Design and optimization of a five-transistor OTA, with emphasis on gain, bandwidth, offset, and gm/ID-based transistor sizing. <br/> Article accepted by _MIT URTC_.  _IEEE Xplore_ submission in prep. <br/>"
 collection: portfolio
 date: 2026-08-01
@@ -28,7 +28,7 @@ teaser: /images/projects/chipathon2026/teaser.png
 
 The chip is designed for hands-on exploration of **DC gain, gain-bandwidth product, phase margin, slew rate, output swing**.
 
-All design work used an open-source flow: **Xschem** for schematic capture, **NGspice** for simulation, **KLayout** for physical design and verification, and the **GlobalFoundries GF180MCU** open-source PDK. The amplifier designs followed a gm/ID methodology and shared a system-level target of approximately **1 MHz GBW while driving a 120 pF off-chip load**.
+All design work used an open-source flow: **Xschem** for schematic capture, **Ngspice** for simulation, **KLayout** for physical design and verification, and the **GlobalFoundries GF180MCU** open-source PDK. The amplifier designs followed a gm/ID methodology and shared a system-level target of approximately **1 MHz GBW while driving a 120 pF off-chip load**.
 
 
 # Chip Information
