@@ -4,7 +4,7 @@ excerpt: "Investigating low-thermal-budget metallization techniques for PVDF pie
 collection: portfolio
 date: 2026-06-09
 role: Undergraduate Researcher
-institution: Columbia University · Kymissis CLUE Lab
+institution: Columbia University · The Columbia Laboratory For Unconventional Electronics
 teaser: /images/projects/pvdf/teaser.png
 ---
 {% include toc %}
