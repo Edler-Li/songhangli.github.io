@@ -44,9 +44,9 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 
 **Skills**
 ---
-**Hardware & Instrumentation**: Monochrometer SR430, Stanford Research System Multichannel Photon Counter, Oscilloscopes, Waveform Generators, M-2000 J.A. Woollam Spectrum ellipsometry. <br />
+**EDA Tools & Design Software**: Cadence(Composer, Virtuoso, Spectre), Mentor(Calibre,  xRC), Xilinx Vivado, LT SPICE, NG SPICE, Xschem, KLayout, MATLAB, Arduino IDE. <br />
 
-**EDA Tools & Design Software**: LT SPICE, NG SPICE, Xschem, KLayout, MATLAB, Arduino IDE. <br />
+**Hardware & Instrumentation**: Monochrometer SR430, Stanford Research System Multichannel Photon Counter, Oscilloscopes, Waveform Generators, M-2000 J.A. Woollam Spectrum ellipsometry. <br />
 
 **Programming language**: Python, Java, MATLAB, Arduino, R, MIPS. <br />
 
@@ -56,6 +56,16 @@ Bachelor of Arts, Physics and Mathematics (May 2025)  <br />
 
 **Additional Technical Skills**: Laser cutting/fabrication, technical documentation (LaTeX, Endnote), design visualization and project planning (X-mind). <br />
 
+**Coursework**
+---
+**Electrical Engineering**: Digital VLSI, Analog Electronic Circuit, Microfabrication, Solid State Devices &
+Material, Signal & System, Communication System, Modern Display Science & Technology. <br />
+
+**Physics**: Advanced Methods in Physics, Electromagnetism, Quantum Mechanics, Analytic Mechanics,
+Mathematic Methods in Physics, Statistical & Thermal Physics. <br />
+
+**Math**: Advanced Linear Algebra, Abstract Algebra, Multi-variable Calculus, Probability & Statistics,
+Differential Equation, Origami Math, Real Analysis <br />
 
 **More about me**
 ---
