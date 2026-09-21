@@ -42,7 +42,7 @@ All design work used an open-source flow: **Xschem** for schematic, **Ngspice** 
 
 ## Programmable Transistor
 
-Each amplifier is built from programmable transistor cells. A base device remains active while binary-controlled parallel branches change the effective width, producing selectable sizing from the base configuration through 4×. Transmission gates route the complementary scan-chain control signals to the device branches.
+Each amplifier is built from programmable transistor cells. A base device remains active while binary-controlled parallel branches change the effective width, producing selectable sizing from the base configuration through 4×.
 
 ![Programmable PFET cell with selectable parallel device branches]({{ site.baseurl }}/images/projects/chipathon2026/programmable_pfet.png)
 *Programmable Transistor by Max*
