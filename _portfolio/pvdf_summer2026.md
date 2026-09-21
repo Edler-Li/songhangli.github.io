@@ -61,7 +61,7 @@ Two three-electrode silver-paste prototypes were produced during the initial fab
 
 The fixture was drafted in **Onshape** and prepared for 3D printing. Its purpose is to constrain the PVDF/PVC strip while converting controlled compression into measurable bending. Treating the support and PVDF layers as approximately linear over the test range allows the deformation to be related to the programmed compression depth.
 
-![Early fixture and deformation concept]({{ site.baseurl }}/images/projects/pvdf/fixture-concept.jpg)
+<!-- ![Early fixture and deformation concept]({{ site.baseurl }}/images/projects/pvdf/fixture-concept.jpg) -->
 
 An **ADMET eP GaugeSafe** test controller was configured to apply repeatable loading cycles. One initial program used:
 
@@ -79,7 +79,7 @@ The front-end resistor and capacitor values determine both gain and settling tim
 
 # Initial Result
 
-![Oscilloscope capture of repeated PVDF loading cycles]({{ site.baseurl }}/images/projects/pvdf/oscilloscope-response.png)
+<!-- ![Oscilloscope capture of repeated PVDF loading cycles]({{ site.baseurl }}/images/projects/pvdf/oscilloscope-response.png) -->
 
 The oscilloscope capture shows a repeatable response synchronized with successive mechanical loading cycles. The waveform includes sharp transition features followed by a slower recovery, consistent with a dynamic piezoelectric signal passing through a finite-time-constant measurement chain. This result verifies the complete path from mechanical actuation through the PVDF sample and analog front end to oscilloscope acquisition.
 

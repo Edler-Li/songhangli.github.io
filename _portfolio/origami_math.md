@@ -14,7 +14,7 @@ teaser: /images/projects/origami/bird-foot-prototype.jpg
 {% if page.authors %}
 <div class="page__meta" style="margin: 0 0 1rem 0;">
   <strong>Author:</strong> {{ page.authors | join: ", " }}<br>
-  <strong>Advisor:</strong> Professor Thomas C. Hull
+  <!-- <strong>Advisor:</strong> Professor Thomas C. Hull -->
 </div>
 {% endif %}
 
@@ -32,11 +32,12 @@ I will demonstrate volume trimming, the improvement by axial variation, and its 
 
 ----  -->
 
-Mathematical origami commonly models paper as a zero-thickness surface. Under that assumption, crease patterns such as flat-foldable degree-4 vertices can move without the panels colliding. Engineering structures made from acrylic, wood, metal, or composite panels behave differently: the physical thickness near a hinge interferes with the folding motion, particularly as the dihedral angle becomes small.  This physical restriction means that the simple angle relationships (like Kawasaki's theorem for flat-foldability) cannot be applied directly to the thick folding.
+Origami commonly models paper as a zero-thickness surface. Under that assumption, crease patterns such as flat-foldable degree-4 vertices can move without the panels colliding. Engineering structures made from acrylic, wood, metal, or composite panels behave differently: the physical thickness near a hinge interferes with the folding motion, particularly as the dihedral angle becomes small.  This physical restriction means that the simple angle relationships (like Kawasaki's theorem for flat-foldability) cannot be applied directly to the thick folding.
 
 This project studied **volume trimming**, a method that removes the interfering material near a fold line, and its stronger extension, **axially varying volume trimming**. The method was then applied to three degree-4 vertices. Their cutting layouts were generated computationally and fabricated as rigid-foldable prototypes using laser-cut panels and a flexible folding layer.
 
 ![Three degree-4 origami vertices used in the project]({{ site.baseurl }}/images/projects/origami/degree-4-vertices.png)
+*J. S. Ku*
 
 # Why Thick Origami Is Difficult
 
@@ -58,24 +59,28 @@ Several strategies have been developed for adapting origami to thick materials:
 | Strained joint | Form a compliant hinge within a continuous thick sheet | 
 
 ![Comparison of hinge shift, volume trimming, offset-panel, and offset-crease methods]({{ site.baseurl }}/images/projects/origami/thick-folding-methods.png)
+*J. S. Ku*
 
 Volume trimming was selected because it can preserve the intended crease axis and can be fabricated using planar cutting processes.
 
 # Original Volume Trimming
 
 **Volume trimming** enables rigid folding by removing the volumes of material that would otherwise interfere near the hinge line.
+*J. S. Ku*
 
 ![Cross-section of the original volume-trimming method]({{ site.baseurl }}/images/projects/origami/volume-trimming.png)
 
 The original constant trim solves the collision problem, but it creates a structural weakness. When material is removed uniformly along the hinge, the flexible folding layer is no longer fully supported—or **contained**—between rigid panels. Loads applied to the panels can then peel the stiff layer away from the folding layer, producing delamination.
 
 ![Delamination caused by an uncontained folding layer]({{ site.baseurl }}/images/projects/origami/delamination.png)
+*J. S. Ku*
 
 # Axially Varying Volume Trimming
 
 Jason Ku's axially varying method addresses delamination by alternating the retained material along the hinge axis. Instead of removing the same side continuously, the trim switches sides in a piecewise-constant pattern. The resulting interlocking “teeth” keep the flexible layer contained while maintaining clearance for folding.
 
 ![One, two, and many axial alternations in the volume-trimming pattern]({{ site.baseurl }}/images/projects/origami/axial-teeth.png)
+*J. S. Ku*
 
 A single alternation provides limited support. Two or more alternations distribute the retaining geometry along the crease and improve hinge stability.
 
@@ -96,24 +101,26 @@ d=\frac{t}{\tan(\gamma)}=t\cot(\gamma).
 $$
 
 ![Geometry of volume trimming for fold angles up to 90 degrees]({{ site.baseurl }}/images/projects/origami/small-angle-trimming.png)
+*J. S. Ku*
 
-The result captures an important physical trend: smaller fold angles require more clearance. As $\gamma$ decreases, $\cot(\gamma)$ increases and a larger portion of the panel must be removed.
+The result demonstrates an important physical limit: smaller fold angles require more clearance. As $\gamma$ decreases, $\cot(\gamma)$ increases and a larger portion of the panel must be removed.
 
 ## Large fold angles
 
-For $90^\circ < \gamma \leq 180^\circ$, trimming only one inner side is no longer sufficient to keep the folding layer contained. Material must be removed from both inner surfaces. The corresponding distances are expressed using the supplementary angle $\pi-\gamma$; one of the horizontal clearance terms is
+For $90^\circ < \gamma \leq 180^\circ$, trimming only one inner side is no longer sufficient to keep the folding layer contained. Material must be removed from both inner surfaces. The corresponding distances are modeled using the supplementary angle $\pi-\gamma$; one of the horizontal clearance terms is
 
 $$
 d=t\cot(\pi-\gamma).
 $$
 
 ![Required trimming distances for fold angles greater than 90 degrees]({{ site.baseurl }}/images/projects/origami/large-angle-trimming.png)
+*J. S. Ku*
 
 These relations convert the desired fold angle and material thickness into fabrication dimensions.
 
 # Degree-4 Vertex Designs
 
-A **degree-4 vertex** is a point at which exactly four crease lines meet. Degree-4 vertices are fundamental building blocks in flat-foldable origami, but reproducing them with thick panels requires compatible clearance at all four creases near the central vertex.
+A **degree-4 vertex** is a point at which exactly four crease lines meet. Degree-4 vertices are fundamental building blocks in flat-foldable origami, but reproducing them with thick panels requires clearance at all four creases near the central vertex.
 
 Three vertex geometries were selected:
 
@@ -198,9 +205,9 @@ The fabricated examples demonstrated that the alternating material retained alon
 
 This approach extends origami design beyond paper and toward deployable structures, architectural systems, robotics, and other mechanisms in which rigid panels must compactly fold without collision.
 
-# Acknowledgment
+<!-- # Acknowledgment
 
-Professor Thomas C. Hull provided guidance throughout this project and the MAT 372 Origami Mathematics course.
+Professor Thomas C. Hull provided guidance throughout this project and the MAT 372 Origami Mathematics course. -->
 
 # References
 
