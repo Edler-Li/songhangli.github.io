@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a senior at **Columbia University**, majoring in _Electrical Engineering_.
-I completed my B.A. in _Physics and Mathematics_ at **Franklin & Marshall College**, receiving the Frank Durrell Enck Memorial Prize in Physics.
+Hi! I'm a senior at Columbia University, majoring in _Electrical Engineering_.
+I completed my B.A. in _Physics_ and _Mathematics_ at Franklin & Marshall College, where I received the Frank Durrell Enck Memorial Prize in Physics.
 
 My research interests lie in analog and digital IC design, and solid state materials and devices.
 
