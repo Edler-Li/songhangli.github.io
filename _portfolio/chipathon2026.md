@@ -24,7 +24,7 @@ teaser: /images/projects/chipathon2026/teaser.png
 
 # Project Overview
 
-**Four-Topology MOSbius** is an open-source, programmable analog educational chip developed for the **IEEE SSCS Chipathon 2026**. It has four common amplifier topologies: a folded-cascode OTA, five-transistor (5T) OTA, telescopic-cascode OTA, and common-source stage, so students can measure and compare their behavior.
+**Four-Topology MOSbius** is an open-source, programmable analog educational chip developed for the **IEEE SSCS Chipathon 2026**. It has four common amplifier topologies: a folded-cascode OTA, five-transistor (5T) OTA, telescopic-cascode OTA, and common-source stage, so students can measure and compare.
 
 The chip is designed for hands-on exploration of DC gain, gain-bandwidth product, phase margin, slew rate, output swing.
 
@@ -95,8 +95,9 @@ The project is in **tapeout preparation** through the IEEE SSCS Chipathon 2026 M
 
 # More About Project
 
+- [MOSbius educational chip platform](https://mosbius.org/0_front_matter/intro.html)
 - [Four-Topology MOSbius source repository](https://github.com/elijohnsonn/Four-Topology-MOSbius)
 - [IEEE SSCS Chipathon 2026 schedule and track information](https://github.com/sscs-ose/sscs-chipathon-2026/tree/main/schedule)
-- [MOSbius educational chip platform](https://mosbius.org/0_front_matter/intro.html)
+
 
 
