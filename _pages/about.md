@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a senior at Columbia University, majoring in _Electrical Engineering_.
-I completed my B.A. in _Physics_ and _Mathematics_ at Franklin & Marshall College, where I received the Frank Durrell Enck Memorial Prize in Physics.
+Hi! I'm a senior at Columbia University, majoring in _Electrical Engineering_, as a part of combined plan with Franklin & Marshall College where I completed my B.A. in _Physics_ and _Mathematics_ and received the Frank Durrell Enck Memorial Prize in Physics.
 
-My research interests lie in analog and digital IC design, and solid state materials and devices.
+My research interests lie in analog and digital VLSI design, and solid state materials and devices.
 
 Currently, I am working on the thin film material in The Columbia Laboratory for Unconventional Electronics ([CLUE](https://kymissis.columbia.edu)).
 
