@@ -1,5 +1,5 @@
 ---
-title: "The MOSbius Project - Chip Design and Tape Out"
+title: "The MOSbius Project - IEEE SSCS Platform for IC Design Outreach"
 excerpt: "From schematic to tapeout. Design and optimization of a five-transistor OTA, with emphasis on gain, bandwidth, offset, and gm/ID-based transistor sizing. <br/> Article accepted by _MIT URTC_.  _IEEE Xplore_ submission in prep. <br/>"
 collection: portfolio
 date: 2026-08-01
